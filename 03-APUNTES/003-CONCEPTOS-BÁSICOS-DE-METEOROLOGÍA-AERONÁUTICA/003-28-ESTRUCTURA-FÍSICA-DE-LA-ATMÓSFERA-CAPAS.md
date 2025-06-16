@@ -39,3 +39,30 @@ La atmósfera se divide verticalmente en cinco capas. Estas capas no son uniform
 		- El límite superior de la mesosfera se denomina mesopausa y se caracteriza porque es el nivel con la temperatura más fría de toda la atmósfera.
 		- En este nivel es donde termina la atmósfera con una composición de gases homogénea. Esta zona donde la atmósfera es homogénea y comprende la troposfera, la estratosfera y la mesosfera recibe el nombre de homosfera.
 - TERMOESFERA O IONOSFERA.
+	- Extensión.
+		- Esta capa se encuentra situada encima de la mesosfera y se extiende desde la mesopausa hasta unos 500 Km.
+	- Temperatura y altitud.
+		- La temperatura aumenta con la altitud debido a la radiación solar, hasta alcanzar una temperatura de 1.100ºC.
+	- Presión.
+		- Disminuye.
+	- Densidad.
+		- A estas altitudes extremas las moléculas de gas se encuentran ampliamente separadas, quedando por tanto libres los átomos que las constituían. Al estar también libres los iones durante largos períodos de tiempo, la ionización es importante y da lugar a fenómenos como la aurora boreal. En el ámbito de las radiocomunicaciones, los iones presentes en esta capa pueden reflejar las ondas de radio, permitiendo la comunicación entre distintos lugares del globo terrestre.
+	- Vapor de agua.
+		- En esta capa no se forma ninguna nube.
+	- Límite superior.
+		- El límite superior de la termosfera se denomina termopausa.
+- EXOSFERA.
+	- Extensión.
+		- Esta capa es la última capa de la atmósfera, se encuentra situada encima de la termosfera y su espesor es muy elevado, hasta confundirse con el gas interplanetario.
+
+
+**Capas de la atmósfera y sus grosores**.
+
+![[131-CAPAS-DE-LA-ATMOSFERA.jpg]]
+
+**Principales fenómenos presentes en cada capa de la atmósfera**.
+
+![[132-FENOMENOS-EN-LA-ATMOSFERA.jpg]]
+
+![[133-TEMPERATURA-EN-LA-ATMOSFERA.jpg]]
+
