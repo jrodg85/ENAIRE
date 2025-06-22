@@ -1,0 +1,50 @@
+
+# 10. Acrónimos, siglas y abreviaturas.
+
+- ACC.
+	- Area control centre / Centro de control de área.
+- ACD.
+	- Airline Coding Directory.
+- AFS.
+	- Aeronautical fixed service / Servicio fijo aeronáutico.
+- ATA.
+	- American Transport Association.
+- ATS.
+	- Air traffic services / Servicios de tránsito aéreo.
+- FAA.
+	- Federal Aviation Administration.
+- FIC.
+	- Flight information centre / Centro de información de vuelo.
+- FIR.
+	- Flight information región / Región de información de vuelo.
+- FL.
+	- Flght level / Nivel de vuelo.
+- ft.
+	- Feet / Pies.
+- IATA.
+	- International Air Transport Association / Organización Internacional para el Transporte Aéreo.
+- KT.
+	- Knots / Nudos.
+- MIN.
+	- Minute / Minuto.
+- MTOW.
+	- Maximum take-off weight / Peso máximo al despegue.
+- OAC.
+	- Oceanic area control centre / Centro de control de área oceánica.
+- OACI.
+	- Organización de Aviación Civil Internacional.
+- SSIM.
+	- Standard Schedules Information Manual.
+- TACC.
+	- Terminal area control centre / Centro de control de área terminal.
+- TAS.
+	- True Airspeed / Velocidad verdadera.
+- UAC.
+	- Upper area control centre / Centro de control de área superior.
+- UIR.
+	- Upper flight information region / Región superior de información de vuelo.
+- UP.
+	- Upper level / Límite superior.
+- WTC.
+	- Wake turbulence category / Categoría de estela turbulenta.
+
