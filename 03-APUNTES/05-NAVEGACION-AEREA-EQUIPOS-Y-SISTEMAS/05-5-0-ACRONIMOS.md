@@ -52,3 +52,4 @@
 | VHF      | Muy alta frecuencia (30 a 300 MHz) / Very high frequency (30 to 300 MHz)                                                |
 | VOR      | Radiofaro omnidireccional muy alta frecuencia / Very high frequency omnidirectional radio range                         |
 | WAAS     | Sistema de aumentación de área amplia (EE.UU.) / Wide Area Augmentation System                                          |
+

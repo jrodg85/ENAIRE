@@ -21,5 +21,5 @@ Contenido
 1.4.3 Servicio de Información Aeronáutica (AIS).
 1.4.4 Gestión de Afluencia del Tráfico Aéreo (ATFM) para garantizar la regularidad de los vuelos y la capacidad en el espacio aéreo.
 1.4.5 Gestión del Espacio Aéreo (ASM) local (táctico/nivel 3) asegurando la coordinación con civil / militar en el desarrollo de las operaciones. 
-1.4.6 Diseño de procedimientos de vuelo (FPD). 
+1.4.6 Diseño de procedimientos de vuelo (FPD).
 1.5 Formación en ENAIRE.
