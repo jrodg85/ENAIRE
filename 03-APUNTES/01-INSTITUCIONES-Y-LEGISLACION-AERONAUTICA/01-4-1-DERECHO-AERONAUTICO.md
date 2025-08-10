@@ -6,9 +6,9 @@ La expresión "Derecho Aeronáutico" remite al conjunto de normas jurídicas que
 La navegacion aerea puede suscitar relaciones juridicas de diversa naturaleza o especialidad y, por ello, las normas que la regulan, aunque puedan ser agrupadas e identificadas por su objeto aeronautico, pertenecen a diversas ramas del Derecho.
 
 - Derecho Administrativo.
-	- Normas que regulan o autorizan la apertura de aerodromos, las licencias de vualo o la imposicion de sanciones.
+	- Normas que regulan o autorizan la apertura de aeródromos, las licencias de vualo o la imposicion de sanciones.
 - Derecho Internacional Publico.
-	- Las normas y organizaciones aeronauticas derivadas de acuerdos internacionales.
+	- Las normas y organizaciones aeronáuticas derivadas de acuerdos internacionales.
 - Derecho Mercantil.
 	- Del que forman parte las normas que regulan el contrato del transporte aereo.
 - Derecho Laboral.

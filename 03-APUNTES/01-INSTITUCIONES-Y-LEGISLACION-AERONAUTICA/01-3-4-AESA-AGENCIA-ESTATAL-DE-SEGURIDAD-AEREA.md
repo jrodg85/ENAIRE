@@ -9,28 +9,28 @@ La Agencia tiene las misiones de Supervision, Inspección y Ordenación del Tran
 
 Para el cumplimiento de dicho objeto, la Agencia ejerce las siguientes competencias:
 
-Licencias y registro:
+**Licencias y registro**.
 - La expedición, renovación, suspension, mantenimiento y renovación de autorizaciones, habilitaciones, licencias, certificaciones y otros títulos habilitantes para la realización de actividades aeronáuticas civiles, tales como la operación de aeronaves, de aeropuertos y de servicios de navegación aérea, asi como para el diseño, fabricación, mantenimiento, y uso de las aeronaves, los productos, componentes y equipos aeronáuticos civiles.
 - El reconocimiento y aceptación de títulos, licencias, autorizaciones o certificados expedidos por otras autoridades y que sean requeridos para el ejercicio de profesiones aeronáuticas.
 - La gestión del Registro de matricula de aeronaves.
 
-Inspección y sanción.
+**Inspección y sanción**.
 - La inspección aeronáutica.
 - La autorización acreditación e inspección a personas físicas y jurídicas para su actuación como entidades colaboradoras en materia de inspección aeronáutica.
 - La gestión de riesgos en materia de seguridad de la aviación civil.
 - El ejercicio de la potestad sancionadora en materia de aviación.
 
-Aprobación y aplicación de normas.
+**Aprobación y aplicación de normas**.
 - Las funciones que los reglamentos o directivas comunitarios atribuyen al Estado, y corresponden al Ministerio de Transporte y Movilidad Sostenible, en el ámbito de la seguridad en el transporte aéreo civil y la protección al usuario del transporte aéreo, entre otras, como autoridad nacional de supervision o como organismo responsable del cumplimiento de los mismos.
 
-Accesibilidad a infraestructuras.
+**Accesibilidad a infraestructuras**.
 - La facilitation en el transporte aéreo para garantizar la accesibilidad y el transito eficaz, fluido y seguro de personas bienes a traves de las infraestructuras del transporte aéreo.
 
-Colaboración.
+**Colaboración**.
 - La colaboración técnica y participación en organismos nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo, asi como la colaboración con la Union Europea y la Agencia Europea de Seguridad Aérea para realizar inspecciones e investigaciones en territorio español.
 - Prestara asistencia técnica y colaborara con el Ministerio de Transporte y Movilidad Sostenible en el ejercicio de las competencias de aquel en materia de aviación civil.
 
-Otras.
+**Otras**.
 - Aquellas otras relacionadas con el objeto y fines de la agencia que pudieran serle atribuidas.
 
 ## 3.4.2. Estructura.

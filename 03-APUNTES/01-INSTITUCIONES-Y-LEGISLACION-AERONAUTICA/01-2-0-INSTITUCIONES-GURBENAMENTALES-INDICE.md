@@ -7,14 +7,14 @@ Las organizaciones internacionales son creadas para gestionar intereses colectiv
 
 ## Índice.
 
-- [2.1. OACI.](./01-2-1-OACI.md)
+- [2.1. OACI.](01-2-1-OACI.md)
 	- 2.1.1. Sobre la OACI.
 	- 2.1.2. Orígenes. La conferencia de Chicago.
 	- 2.1.3. Misión.
 	- 2.1.4. Objetivos.
 	- 2.1.5. Estructura de OACI.
 	- 2.1.6. Documentación.
-- [2.2. EUROCONTROL.](./01-2-2-EUROCONTROL.md)
+- [2.2. EUROCONTROL.](01-2-2-EUROCONTROL.md)
 	- 2.2.1. Orígenes.
 	- 2.2.2. Misión.
 	- 2.2.3. Objetivos.
@@ -25,7 +25,7 @@ Las organizaciones internacionales son creadas para gestionar intereses colectiv
 	- 2.2.8. MUAC (Maastricht Upper Area Control Centre/ Centro de control de área en espacio aéreo superior en Maastricht).
 	- 2.2.9. Participación de España.
 	- 2.2.10. Participación de ENAIRE.
-- [2.3. UNIÓN EUROPEA.](./01-2-3-UNION-EUROPEA.md)
+- [2.3. UNIÓN EUROPEA.](01-2-3-UNION-EUROPEA.md)
 	- 2.3.1. Orígenes.
 	- 2.3.2. Misión.
 	- 2.3.3. Objetivos.
@@ -33,11 +33,11 @@ Las organizaciones internacionales son creadas para gestionar intereses colectiv
 	- 2.3.5. Normativa en materia de transporte aéreo.
 	- 2.3.6. Cielo Único Europeo (Single European Sky, SES)
 	- 2.3.7. Participación de España.
-- [2.4. EASA (EUROPEAN AVIATION SAFETY AGENCY / LA AGENCIA EUROPEA DE SEGURIDAD AÉREA).](./01-2-4-EASA.md)
+- [2.4. EASA (EUROPEAN AVIATION SAFETY AGENCY / LA AGENCIA EUROPEA DE SEGURIDAD AÉREA).](01-2-4-EASA.md)
 	- 2.4.1. Orígenes.
 	- 2.4.2. Misión.
 	- 2.4.3. Objetivos.
 	- 2.4.4. Estructura.
 	- 2.4.5. Normativa.
-- [2.5. OTRAS ORGANIZACIONES.](./01-2-5-OTRAS-ORGANIZACIONES.md)
+- [2.5. OTRAS ORGANIZACIONES.](01-2-5-OTRAS-ORGANIZACIONES.md)
 

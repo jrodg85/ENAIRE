@@ -55,7 +55,6 @@ La atmósfera se divide verticalmente en cinco capas. Estas capas no son uniform
 	- Extensión.
 		- Esta capa es la última capa de la atmósfera, se encuentra situada encima de la termosfera y su espesor es muy elevado, hasta confundirse con el gas interplanetario.
 
-
 **Capas de la atmósfera y sus grosores**.
 
 ![[130-CAPAS-DE-LA-ATMOSFERA.jpg]]

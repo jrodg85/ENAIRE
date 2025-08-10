@@ -9,7 +9,6 @@ España es miembro desde 1007 y , el 8 de octubre de 2002, se firmó el protocol
 
 ## 2.2.2. Misión.
 
-
 EUROCONTROL tiene como misión armonizar e integrar los servicios de navegación aérea en Europa, con miras a la creación de un sistema uniforme de gestión del tráfico aéreo (ATM) para que los usuarios civiles y militares, a fin de lograr el desarrollo seguro, ordenado, rápido y económico del flujo de tráfico aéreo en toda Europa, al tiempo que minimiza el impacto medioambiental adverso.
 
 ## 2.2.3. Objetivos.
@@ -75,22 +74,22 @@ El principal mecanismo de armonización puesto en marcha por la Comisión de Reg
 
 Hasta el momento se han aprobado seis normas ESARR que se han ido integrando en los siguientes Reglamentos, Directivas y Leyes:
 
-ESARR 1.
+**ESARR 1**.
 - Safety Oversight in ATM.
 
-ESARR 2.
+**ESARR 2**.
 - Reporting and Assessment of Safety Occurrences in ATM.
 
-ESARR 3.
+**ESARR 3**.
 - Use of Safety Management System by ATM Service Providers
 
-ESARR 4.
+**ESARR 4**.
 - Risk Assessment and Mitigation in ATM.
 
-ESARR 5.
+**ESARR 5**.
 - ATM Services' Personnel.
 
-ESARR 6.
+**ESARR 6**.
 - Software in ATM Functional Systems.
 
 ## 2.2.7. EAD (European AIS Database / Base de datos AIS a nivel europeo).
@@ -109,11 +108,9 @@ Es el centro de Control de Tráfico aéreo de EUROCONTROL y proporciona servicio
 
 España, como miembro de EUROCONTROL, pertenece y tiene representación en la Comisión Permanente y en el Consejo Provisional, y asimismo participa en el Comité de Coordinación del Consejo Provisional. Además participa con expertos en las reuniones de trabajo que se desarrollan en los distintos tipos de órganos consultivos.
 
-
 ## 2.2.10. Participación de ENAIRE.
 
 ENAIRE participa en los siguientes grupos consultivos:
-
 - **ANSB**: Es el consejo Asesor creado por el Consejo Provisional para elaborar y coordinar el punto de vista a los objetivos estratégicos, plan de negocios y presupuestos de EUROCONTROL, de los proveedores de Servicio de Navegación Aérea, Aerolíneas, Aeropuertos y Militares (estos últimos, sin derecho a voto).
 - **AAB**: Es el órganos Asesor del Director General de la Agencia, en temas relacionados con los objetivos estratégicos del Consejo Provisional y de la operación de la Red ATM europea según lo establecido en el plan de negocio de EUROCONTROL. ENAIRE participa como Proveedor de Servicios de Navegación Aérea.
 

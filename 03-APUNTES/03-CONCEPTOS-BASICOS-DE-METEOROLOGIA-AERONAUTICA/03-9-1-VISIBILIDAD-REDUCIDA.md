@@ -8,7 +8,6 @@ En el apartado 7.2 se introdujo el concepto físico de la visibilidad. Hay que t
 Cuando la visibilidad es inferior a 1.500 m, se debe cifrar el alcance visual en pista (Runway Visual Range, RVR). Como se vio anteriormente, este parámetro mide la distancia hasta la cual el piloto de una aeronave que se encuentra a 5 m de altura sobre el eje de una pista puede ver las señales de superficie de la pista o las luces que la delimitan o que señalan su eje. En los informes meteorológicos se corresponde con el valor promedio de los 10 minutos anteriores a la hora de observación. Este parámetro se obtiene de transmisómetros (o visibilímetros) que se colocan a una altura de 2,5 m sobre el suelo, separados unos 100 metros del eje de la pista en la zona de toma de contacto del avión.
 
 La visibilidad en superficie se ve afectada por diversos fenómenos meteorológicos. Algunos de ellos son:
-
 - Nieblas,neblinas.
 - Ventiscas.
 - Calimas (partículas de polvo en suspensión).

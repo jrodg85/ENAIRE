@@ -39,7 +39,6 @@ Los objetivos principales en cuanto al transporte y la navegación aérea son:
 	- Velar por los intereses generales de la UE proponiendo y comprobando que se cumpla la legislación y aplicando las políticas y el presupuesto de la UE.
 	- Constituido por un equipo de comisarios, uno por cada país de la UE.
 
-
 - Tribunal de Justicia de la Unión Europea (TSJUE).
 	- Garantizar que la legislación de la UE se interpreta y aplica de la misma manera en cada uno de los países miembros.
 	- Garantizar que los países miembros y las instituciones europeas cumplen la legislación de la UE.
@@ -84,6 +83,7 @@ La UE ha creado distinta normativa en el campo de la aviación:
 | Colaboración de la industria, compañías aéreas y proveedores de servicio de navegación aérea. | En la definición de nuevas soluciones tecnológicas a través del programa tecnológico SESAR y protección del medio ambiente tales como :<br>    - Clean Sky.<br>	- Integración del medio ambiente en el ámbito del<br>	transporte aéreo.<br>	- Gestión del ruido en los aeropuertos de la UE.<br>	- Etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Dimensión internacional.                                                                      | - Desarrollar la agenda de la política exterior comunitaria en el sector de la aviación.<br>- Acuerdos de servicio de transporte aéreo entre Estados miembros y paises terceros.<br>- Etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Protección de la Aviación.                                                                    | - Normas comunes sobre la seguridad de la aviación civil.<br>- Uso de escáneres de protección en los aeropuertos de la UE.<br>- Etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
 ## 2.3.6. Cielo Único Europeo (Single European Sky, SES)
 
 ### 2.3.6.1. Orígenes.
@@ -96,7 +96,6 @@ Los objetivos clave iniciales de esta iniciativa SES fueron.
 3. Aumentar la eficiencia global del sistema europeo de gestión de tránsito aéreo.
 
 En el año 2000 las instituciones europeas comenzaron el desarrollo de un conjunto completo de medidas legislativas y de cooperación para lograr dichos Objetivos SES, de tal forma que en abril de 2004 entraron en vigor los cuatro reglamentos comunitarios, pilares normativos de la iniciativa de Cielo Único Europeo, teniendo como principal objetivo la mejora global de las prestaciones del Sistema de Navegación Aérea europeo. Los cuales son:
-
 - Reglamento (CE) N.º 549/2004 que establece el marco para la creación del Cielo Único Europeo.
 - Reglamento (CE) N.º 550/2004 sobre la prestación de servicios de navegación aérea.
 - Reglamento (CE) N.º 551/2004 sobre la organización y uso del espacio aéreo.
@@ -105,7 +104,6 @@ En el año 2000 las instituciones europeas comenzaron el desarrollo de un conjun
 La Comisión Europea presentó en junio de 2008 una propuesta legislativa para ampliar los objetivos de la iniciativa de Cielo Único, concretando mas algunas de las disposiciones del marco normativo aprobado en 2004 e incidiendo en cuestiones medioambientales y, fundamentalmente, en eficiencia de costes. Esta propuesta es conocida como "SES II".
 
 La citada propuesta de la Comisión fue aprobada en el Parlamento y Consejo Europeo, y en diciembre de 2009 entró en vigor el "paquete SES II" formado por los siguientes reglamentos.
-
 - Reglamento (CE) N.º 1108/2009 por el que extienden las competencias de la EASA (European Aviation Safety Agensy) al cambio ATM y aeropuertos (derogado por el Reglamento UE 2018/1139).
 - Reglamento (CE) N.º 1070/2009, que modifica los cuatro reglamentos pilares de Cielo Único anteriormente citados (CE 549/2004 a CE 552/2004).
 
@@ -131,7 +129,7 @@ La citada propuesta de la Comisión fue aprobada en el Parlamento y Consejo Euro
 	- Que defina objetivos ambiciosos o incluso mejore los niveles de seguridad.
 	- Esta función es asumida por la Comisión Europea.
 2. Establecimiento de un **Gestor de Red Europeo(Network Manager - NM).
-   
+
 ***Sistema de Evaluación***
 * Establecimiento de un **Sistema de evaluación de rendimientos** que fija niveles de rendimiento requeridos para todos los actores del sector respecto a la seguridad, el medio ambiente, la capacidad y la rentabilidad.
 
@@ -199,3 +197,4 @@ En el ámbito del transporte aéreo, participan tanto funcionarios del Ministeri
 La labor fundamental de la Dirección General de Aviación Civil en relación con estas tareas se centra en la colaboración con el resto de organismos interesados para la definición de posturas nacionales que sean compatibles con el bien común de la Unión y con los intereses de España y sus ciudadanos. Para ello, se realiza un seguimiento constante de los distintos procesos legislativos en curso. En particular, en lo que respecta al desarrollo de la regulación de Cielo Único, participa en el Comité de Cielo Único (Single Sky Committee) en el que se discuten las políticas comunitarias y proyectos de reglamentación.
 
 ENAIRE junto con los principales Proveedores de Servicio de Navegación Aérea, Aerolíneas y Aeropuertos Europeos, es miembro del Consorcio SESAR Deployment Alliance (SDA) desde su creación y designación por la Comisión Europea en diciembre 2014 para ejercer la función del Gestor de Despliegue de SESAR (SDM). El 1 de enero de 2018, el Consorcio SDA evolucionará a una Asociación Internacional sin ánimo de lucro, en la que ENAIRE seguirá participando.
+

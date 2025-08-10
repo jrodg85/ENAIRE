@@ -9,11 +9,11 @@
 	- En 1979, se creo un organismo, la Comision Interministerial entre Defensa y Fomento (CIDEFO).
 	- El 1 de abril de 2020 mediante el acuerdo de la Comision se acordo el cambio de denominacion de la Comision referida en el articulo 6 de la Ley de Seguridad Aerea, como "Comision Interministerial entre Defensa y Transportes, Movilidad y Agenda Urbana", asi como la designacion mediante siglas que pasara a ser CIDETMA. En 2024 con el nuevo cambio de nombre del Ministerio, Ahora Ministerio de Trasnportes y Movilidad Sostenible, la comision interministerial pasa a denominarse CIDETRA.
 - Competencias.
-	- Aerodromos y cartas aeronauticas.
-		- Planificacion de nuevos aeropuertos y aerodromos publicos civiles, asi como las modificaciones que se precisen en los mismos o en sus instalaciones.
-		- Concesion de autorizacion de aerodromos privados.
-		- Establecimiento y modificacion de las servidumbres aeronauticas de los aeropuertos y aerodromos publicos civiles y privados.
-	- Cartas aeronauticas.
+	- Aeródromos y cartas aeronáuticas.
+		- Planificacion de nuevos aeropuertos y aeródromos publicos civiles, asi como las modificaciones que se precisen en los mismos o en sus instalaciones.
+		- Concesion de autorizacion de aeródromos privados.
+		- Establecimiento y modificacion de las servidumbres aeronáuticas de los aeropuertos y aeródromos publicos civiles y privados.
+	- Cartas aeronáuticas.
 		- Regulacion de las maniobras de aproximacion y aterrizaje por instrumentos.
 		- Determinacion de cartas especiales que deben editarse y datos referentes a la navegacion que deben figurar en la cartografia aeronautica.
 	- Espacios aereos.

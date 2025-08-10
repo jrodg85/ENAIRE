@@ -17,7 +17,7 @@
 			- Los gases que están presentes en la atmósfera son absorbentes selectivos de la radiación terrestre para determinadas longitudes de onda. En particular, algunos de estos gases absorben grandes cantidades de radiación de onda larga emitida por la Tierra al espacio, mientras que son transparentes a la radiación de onda corta que proviene del Sol.
 		- Efectos.
 			- Efecto invernadero: es el fenómeno debido a la absorción selectiva de la radiación solar por parte de los gases de efecto invernadero, que inducen un aumento de la temperatura de la atmósfera y la superficie terrestre.
-			- La radiación terrestre que reflejan las nubes no es muy alta, en general. Sin embargo, cuando el cielo está totalmente cubierto absorben gran cantidad de radiación terrestre y luego la reemiten con una longitud de onda propia.
+			- La radiación terrestre que reflejan las nubes no es muy alta, en general. Sin embargo, cuando el cielo está totalmente cubierto absorben gran cantidad de radiación terrestre y luego la remiten con una longitud de onda propia.
 
 ![[137-TIPOS-DE-RADIACION.jpg]]
 

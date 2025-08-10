@@ -1,0 +1,5 @@
+# 2.7. Mensaje de cancelación de plan de vuelo (CNL, Cancellation Message).
+
+Se enviará cuando se haya cancelado un vuelo con respecto al cual se hayan distribuido anteriormente datos básicos de plan de vuelo. La dependencia ATS que sirve al aeródromo de salida, transmitirá el mensaje CNL a las dependencias ATS que hayan recibido los datos básicos de plan de vuelo.
+
+Cuando se determine que para modificar ciertos datos básicos de plan de vuelo es necesario cancelar el FPL para un día determinado y presentar un nuevo plan de vuelo para ese día, la dependencia ATS que sirve al aeródromo de salida transmitirá un mensaje de cancelación, con el indicador de prioridad “DD”, a todas las dependencias ATS interesadas, seguido de la transmisión del correspondiente mensaje de plan de vuelo presentado (FPL).

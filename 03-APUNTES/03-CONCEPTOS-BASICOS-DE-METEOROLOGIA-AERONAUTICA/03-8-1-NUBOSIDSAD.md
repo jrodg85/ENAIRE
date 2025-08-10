@@ -97,7 +97,7 @@ Las abreviaturas OACI utilizadas en los mensajes aeronáuticos para proporcionar
 
 **OVC**: cielo cubierto.
 **BKN**: nuboso (de 5 a 7 octas de cielo cubierto).
-**SCT**: nubosidad dispersa (de 3 a 4 octas de cielo cubierto.
+**SCT**: nubosidad dispersa (de 3 a 4 octas de cielo cubierto).
 **FEW**: algunas nubes (de 1 a 2 octas de cielo cubierto).
 **NSC**: Sin nubes de importancia para las operaciones.
 **CAVOK**: Sin nubes, sin fenómenos significativos y con visibilidad mayor que 10 kilómetros.

@@ -82,5 +82,5 @@ Hay dos puntos en los que se debe cambiar la referencia escogida para el reglaje
 - **Capa de transición**.
 	- Es la capa situada entre el nivel de transición y la altitud de transición. Su espesor es variable y siempre mayor o igual a 1000 ft.
 
-![[136-ALTITUD-DE-TRANCISION-NIVEL-CAMBIOS-REGLAJES.jpg]]
+![[136-ALTITUD-DE-TRANSICION-NIVEL-CAMBIOS-REGLAJES.jpg]]
 

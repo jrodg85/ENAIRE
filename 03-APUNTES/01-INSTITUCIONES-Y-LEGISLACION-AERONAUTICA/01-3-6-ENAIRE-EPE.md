@@ -12,8 +12,7 @@ Conforme a la Ley 09/2010, ENAIRE es la empresa designada por el Estado para el 
 Controla un espacio aéreo que comprende la peninsula ibérica (excepto Portugal), Canarias, Baleares, parte del Atlántico norte, del oeste del Mediterráneo y del Sahara Occidental, en total 2,19 millones de Kilómetros cuadrados.
 
 La gestión de este espacio aéreo lo hace a traves de:
-
-1. Cinco direcciones regionales de Navegación aérea ubicados en los centros de control (ACC): 
+1. Cinco direcciones regionales de Navegación aérea ubicados en los centros de control (ACC):
 	- Centro Norte con sede en Madrid.
 	- Este con sede en Barcelona.
 	- Canarias con sede en Canarias.
