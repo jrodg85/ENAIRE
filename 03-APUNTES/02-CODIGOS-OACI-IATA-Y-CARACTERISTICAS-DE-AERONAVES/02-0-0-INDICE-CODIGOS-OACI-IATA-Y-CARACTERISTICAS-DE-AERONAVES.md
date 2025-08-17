@@ -1,6 +1,6 @@
 
 # Códigos OACI/IATA y características de aeronaves.
-## INDICE.
+## Índice.
 
 - [1. INTRODUCCIÓN.](02-1-0-INTRODUCCION.md)
 - [2. INDICADORES DE LUGAR OACI.](02-2-0-INDICADORES-DE-LUGAR-OACI-INDICE.md)

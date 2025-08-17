@@ -1,0 +1,21 @@
+
+# 5.2 Necesidad de dormir.
+
+Dormir es una de las necesidades primordiales del ser humano. Por naturaleza, nuestro cuerpo suele atender a los ciclos de sueño y vigilia, acorde con la noche y el día. Limitar los períodos de vigilia y dormir lo suficiente de forma periódica es fundamental para que el cerebro pueda ordenar y almacenar las experiencias del día y recuperar la capacidad de los sistemas esenciales.
+
+Según la Organización Mundial de la Salud (OMS) y la National Sleep Foundation (EE.UU.) un adulto entre los 18 y los 64 años debe dormir un promedio diario de 8 horas para poder recuperarse de una actividad diaria normal. Esta cifra no deja de ser una media ya que las necesidades entre individuos pueden variar.
+
+No obstante, no sólo hay que tener en cuenta la cantidad de horas dormidas sino la calidad de este sueño. Lo ideal para conseguir un sueño reparador y levantarse descansado, es dormir sin interrupciones y profundamente, esto es, incluir ciclos ininterrumpidos de los dos tipos de sueño que existen:
+- a. el sueño sin movimientos rápidos del ojo (sueño no-REM).
+- b. el sueño con movimientos rápidos del ojo (sueño REM).
+
+El sueño no-REM, o fase de sueño lento, se divide a su vez en cuatro fases con características diferentes, así que en total se pueden distinguir, sumando la fase de sueño REM, cinco fases que se alternan de forma cíclica mientras la persona permanece dormida (cada 90/100 minutos, aproximadamente, comienza un nuevo ciclo de sueño en el que los últimos 20 o 30 minutos se corresponden con la fase REM):
+- Fase I: es la fase de sueño ligero, en la que las personas son todavía capaces de percibir la mayoría de los estímulos (auditivos y táctiles). El tono muscular disminuye en comparación con el estado de vigilia y aparecen movimientos oculares lento. El sueño en fase I es poco o nada reparador.
+- Fase II: en esta fase el sistema nervioso bloquea las vías de acceso de la información sensorial, lo que origina una desconexión con el entorno facilitándose, por tanto, la actividad de dormir. Esta fase ocupa el 50% del tiempo de sueño en una persona adulta. El tono muscular es menor que en fase I y desaparecen los movimientos oculares. El sueño en esta fase es parcialmente reparador, por lo que no es suficiente para que el descanso se considere completo.
+- Fase III: es un sueño más profundo (denominado DELTA), donde el bloqueo sensorial se intensifica. Si el individuo se despierta durante esta fase, se siente confuso y desorientado. En esta fase no se sueña, se produce una disminución del 10 al 30 por ciento de la tensión arterial y del ritmo respiratorio, y se incrementa la producción de la hormona del crecimiento. El tono muscular es aún más reducido que en fase II, y tampoco hay movimientos oculares.
+- Fase IV: es la fase de mayor profundidad del sueño, en la que la actividad cerebral es más lenta (predominio de actividad delta). Al igual que la fase III, es esencial para la recuperación física y, especialmente, psíquica, del organismo (déficits de fase III y IV causan somnolencia diurna). En esta fase, el tono muscular está muy reducido. No es la fase típica de los sueños, pero en ocasiones pueden aparecer, en forma de imágenes, luces, figuras… sin una línea argumental.
+- Fase REM: En esta fase se presentan los sueños en forma de narración, con un hilo argumental, aunque sea absurdo. La actividad eléctrica cerebral de esta fase es rápida. El tono muscular es nulo (atonía muscular o parálisis), impidiendo que la persona dormida materialice sus alucinaciones oníricas y pueda hacerse daño.
+
+Además de la interrupción de ciclos No-REM y REM durante el sueño, factores como el envejecimiento, la presencia de síntomas asociados a trastornos del sueño (por ejemplo, la apnea), la influencia de factores medioambientales (como una inadecuada iluminación o temperatura) o la ingesta de cafeína, alcohol o nicotina, pueden afectar negativamente a la calidad del sueño.
+
+Es importante recordar que los estudios realizados respecto de la calidad del descanso de los CTAs durante el turno de noche en su lugar de trabajo demuestran que este sueño es más ligero y con frecuencia interrumpido (de tipo No-REM), no pudiendo compararse con la calidad del sueño en el domicilio en las condiciones habituales para el individuo.

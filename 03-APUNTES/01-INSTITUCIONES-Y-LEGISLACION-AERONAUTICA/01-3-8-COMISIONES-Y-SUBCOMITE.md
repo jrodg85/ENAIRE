@@ -1,52 +1,52 @@
 
-# 3.8. Comisiones y subcomité.
+# 3.8. COMISIONES Y SUBCOMITÉ.
 
 **CIDETRA**.
 - Siglas.
-	- Comision Internacional entre Defensa y Transportes, Movilidad y Agenda Urbana.
+	- Comisión Interministerial entre Defensa y Trasportes, Movilidad y Agenda Urbana.
 - Origen.
-	- Tras la creacion en 1977 del Ministerio de Transportes, Turismo y Comunicaciones, las competencias en aeronautica civil se traspasaron desde el Ministerio de Defensa, donde residian hasta ese momento.
-	- En 1979, se creo un organismo, la Comision Interministerial entre Defensa y Fomento (CIDEFO).
-	- El 1 de abril de 2020 mediante el acuerdo de la Comision se acordo el cambio de denominacion de la Comision referida en el articulo 6 de la Ley de Seguridad Aerea, como "Comision Interministerial entre Defensa y Transportes, Movilidad y Agenda Urbana", asi como la designacion mediante siglas que pasara a ser CIDETMA. En 2024 con el nuevo cambio de nombre del Ministerio, Ahora Ministerio de Trasnportes y Movilidad Sostenible, la comision interministerial pasa a denominarse CIDETRA.
-- Competencias.
-	- Aeródromos y cartas aeronáuticas.
-		- Planificacion de nuevos aeropuertos y aeródromos publicos civiles, asi como las modificaciones que se precisen en los mismos o en sus instalaciones.
-		- Concesion de autorizacion de aeródromos privados.
-		- Establecimiento y modificacion de las servidumbres aeronáuticas de los aeropuertos y aeródromos publicos civiles y privados.
+	- Tras la creación en 1977 del Ministerio de Transportes, Turismo y Comunicaciones, las competencias en aeronáutica civil se traspasaron desde el Ministerio de Defensa, donde residían hasta ese momento.
+	- En 1979, se creó un organismo, la Comisión Interministerial Defensa-Transportes (CIDETRA), para permitir y asegurar la coordinación entre la aeronáutica civil y militar.
+	- Se adecuó posteriormente el nombre a Comisión Interministerial entre Defensa y Fomento (CIDEFO).
+	- El 1 de abril de 2020 mediante acuerdo de la Comisión se adoptó el cambio de denominación de la Comisión referida en el artículo 6 de la Ley de Seguridad Aérea, como “Comisión Interministerial entre Defensa y Transportes, Movilidad y Agenda Urbana”, así como la designación mediante siglas que pasará a ser CIDETMA En 2024 con el nuevo cambio de nombre del Ministerio, ahora Ministerio de Transportes y Movilidad Sostenible, la comisión interministerial pasa a denominarse CIDETRA.
+- Competencias
+	- Aeródromos.
+		- Planificación de nuevos aeropuertos y aeródromos públicos civiles, así como las modificaciones que se precisen en los mismos o en sus instalaciones.
+		- Concesión de autorización de aeródromos privados.
+		- Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados.
 	- Cartas aeronáuticas.
-		- Regulacion de las maniobras de aproximacion y aterrizaje por instrumentos.
-		- Determinacion de cartas especiales que deben editarse y datos referentes a la navegacion que deben figurar en la cartografia aeronautica.
-	- Espacios aereos.
-		- Estructura del espacio aereo.
-	- Navegacion aerea.
-		- Planificacion de la red de ayudas a la navegacion, sistema de control y telecomunicaciones, asi como sus modificaciones.
-		- Requerimientos de la navegacion aerea en relacion con el Instituto Nacional de Meteorologia.
-	- Reglamentacion.
-		- Informacion de cuantos asuntos relacionados con la navegacion aerea hayan de tratarse en congresos y reuniones internacionales de aviacion civil, asi como de los acuerdos adoptados.
-		- Reglamentacion de la circulacion aerea.
-		- Organizacion y reglamentacion de la busqueda y salvamento.
-	- Otras.
-		- Cualquier otra relacionada con los diferentes aspectos del control de trafico y de la navegacion aerea al objeto de su reglamentacion, perfeccionamiento y desarrollo.
-		- Cualquier otra funcion de las que corresponden al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecta a la aviacion militar o a los intereses de la defensa nacional.
+		- Regulación de las maniobras de aproximación y aterrizaje por instrumentos.
+		- Determinación de cartas especiales que deben editarse y datos referentes a la navegación que deben figurar en la cartografía aeronáutica.
+	- Espacios aéreos.
+		- Estructura del espacio aéreo.
+	- Navegación aérea.
+		- Planificación de la red de ayudas a la navegación, sistema de control y telecomunicaciones, así como sus modificaciones.
+		- Requerimientos de la navegación aérea en relación con el Instituto Nacional de Meteorología.
+		- Información de cuantos asuntos relacionados con la navegación aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil, así como de los acuerdos adoptados.
+	- Reglamentación.
+		- Reglamentación de la circulación aérea.
+		- Organización y reglamentación de la búsqueda y salvamento.
+	- Otras 
+		- Cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la navegación aérea al objeto de su reglamentación, perfeccionamiento y desarrollo.
+		- Cualquier otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecte a la aviación militar o a los intereses de la defensa nacional.
 
 **CIPAI**.
 - Siglas.
-	- Comision Interministerial de Politica Aeroespacial Internacional.
+	- Comisión Interministerial de Política Aeroespacial Internacional.
 - Origen.
-	- Es un organo colegiado de la Administracion General del Estado, adscrito al Ministerio de Asuntos Exteriores, creado en 1946 con el nombre de Comision Interministerial de Politica Aerea Internacional (CIPAI).
-		- Tiene como finalidad el asesoramiento a la Administracion General del Estado y la coordinacion entre departamentos de dicha Administracion en cuestiones de politica aerea y espacial internacional.
-		- En 2003, mediante el Real Decreto 1342/2003, se modifica para ajustarla a la situacion actual.
+	- Es un órgano colegiado de la Administración General del Estado, adscrito al Ministerio de Asuntos Exteriores, creado en 1946 con el nombre de Comisión Interministerial de Política Aérea Internacional (CIPAI).
+	- Tiene como finalidad el asesoramiento a la Administración General del Estado y la coordinación entre los departamentos de dicha Administración en cuestiones de política aérea y espacial internacional.
+	- En 2003, mediante el Real Decreto 1342/2003, se modifica para ajustarla a la situación actual.
 - Competencias.
-	- Emitira su opinion y hara las propuestas que estime oportunas sobre cuestiones de politicaaerea y espacial internacionales, respetando las competencias del Ministerio de Asuntos Exteriores en materia de tratados internacionales.
-	- Emitira informes y propondra las resoluciones pertinentes en lo relativo a la preparacion, negociacion, aplicacion y vigilancia de la ejecucion de tratados internacionales sobre politicas aereas y espaciones internacionales de interes para España.
+	- Emitirá su opinión y hará las propuestas que estime oportunas sobre cuestiones de política aérea y espacial internacionales, respetando las competencias del Ministerio de Asuntos Exteriores en materia de tratados internacionales.
+	- Emitirá informes y propondrá las resoluciones pertinentes en lo relativo a la preparación, negociación, aplicación y vigilancia de la ejecución de tratados internacionales sobre políticas aéreas y espaciales internacionales de interés para España.
 
 **SCA**.
 - Siglas.
-	- Subcomite de la Circulacion Aerea.
+	- Subcomité de la Circulación Aérea.
 - Origen.
-	- Con el objetivo de establecer un adecuado foro de coordinacion entre la administracion de aviacion civil y los usuarios del sistema de navegacion aerea, se fundo en 1986 el Comite de Coordinacion Operativa.
-	- En el momento de su creacion se dividio, a su vez, en cinco subcomites, entre los que se encuentra el Subcomite de Circulacion Aerea (SCA).
-- Competencias.
-	- Coordinar todos los requisitos operacionales identificadas y justificadas por los usuarios.
-	- Participan ENAIRE, la DGAC, la AEMET y las compañias aereas españolas.
-
+	- Con el objetivo de establecer un adecuado foro de coordinación entre la administración de aviación civil y los usuarios del sistema de navegación aérea, se fundó en 1986 el Comité de Coordinación Operativa. 
+	- En el momento de su creación se dividió, a su vez, en cinco subcomités, entre los que se encuentra el Subcomité de Circulación Aérea (SCA).
+- Competencias
+	- Coordinar todos los requisitos operacionales identificados y justificados por los usuarios.
+	- Participan ENAIRE, la DGAC, la AEMET y las compañías aéreas españolas.
