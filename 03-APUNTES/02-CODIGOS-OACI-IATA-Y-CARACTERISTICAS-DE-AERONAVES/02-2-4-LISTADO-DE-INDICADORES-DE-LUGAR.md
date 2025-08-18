@@ -1,5 +1,5 @@
 
-## 2.4. Listado de indicadores de lugar.
+# 2.4 Listado de indicadores de lugar.
 
 A continuación, se muestran algunos de los indicadores de lugar de mayor uso en España agrupados en las siguientes categorías:
 - Aeródromos.
@@ -7,6 +7,7 @@ A continuación, se muestran algunos de los indicadores de lugar de mayor uso en
 - FIC y ACC.
 - Aeródromos en situación excepcional.
 - FICC y ACC adyacentes.
+
 Es necesario indicar que los datos incluidos en estas tablas están sujetos a continuas actualizaciones. Por este motivo, para consultas específicas, se recomienda acudir a la última edición del documento 7910 de OACI.
 
 **FIC/ACC/TACC DE ESPAÑA**.
@@ -20,6 +21,7 @@ Es necesario indicar que los datos incluidos en estas tablas están sujetos a co
 | Santiago TACC     | LECG      |
 | Sevilla FIC/ACC   | LECS      |
 | Valencia TACC     | LECL      |
+
 
 **FIC/ACC/UAC/OAC COLATERALES**.
 
@@ -109,6 +111,7 @@ UAC: Centro de control de área superior.
 | VITORIA                                         | LEVT      |
 | ZARAGOZA                                        | LEZG      |
 
+
 **HELIPUERTOS ESPAÑOLES**.
 
 | LUGAR                                     | INDICADOR |
@@ -123,6 +126,7 @@ UAC: Centro de control de área superior.
 | SEVILLA/El Copero                         | LEEC      |
 | TENERIFE NORTE/Los Rodeos                 | GCXM      |
 | VALENCIA/Bétera                           | LEBT      |
+
 **AERÓDROMOS EN SITUACIÓN EXCEPCIONAL**.
 
 | LUGAR         | INDICADOR |

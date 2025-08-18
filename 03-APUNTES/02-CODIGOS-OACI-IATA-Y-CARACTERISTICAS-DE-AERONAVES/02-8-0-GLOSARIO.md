@@ -27,9 +27,8 @@
 
 - **Estela turbulenta**.
 	- Masa de aire en movimiento espiral y descendente, que se genera en el extremo de los planos de una aeronave en vuelo.
-- **Explotador**.
-	- Persona, organismo o empresa que se dedica a la explotación de aeronaves.
-
+	- **Explotador**.
+		- Persona, organismo o empresa que se dedica a la explotación de aeronaves.
 ## H.
 
 - **Helicóptero**.

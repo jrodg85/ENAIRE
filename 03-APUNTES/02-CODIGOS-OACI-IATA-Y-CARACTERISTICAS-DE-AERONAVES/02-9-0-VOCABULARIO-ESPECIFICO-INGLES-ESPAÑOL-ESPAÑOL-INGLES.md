@@ -1,5 +1,5 @@
 
-# 9. Vocabulario específico inglés español/español-inglés.
+# 9. VOCABULARIO ESPECÍFICO INGLÉS-ESPAÑOL/ESPAÑOL-INGLÉS.
 
 ## Ingles => Español.
 
@@ -63,21 +63,66 @@
 
 ## Español => Inglés.
 
-| ESPAÑOL                        | INGLÉS                 |
-| ------------------------------ | ---------------------- |
-| Repuestos                      | Spare parts            |
-| Reventón                       | Blow out -- tyre burst |
-| Rueda                          | Wheel                  |
-| Rueda de cola                  | Tail wheel             |
-| Rueda de morro                 | Nose wheel             |
-| Señalero                       | Marshal                |
-| Servicio de remolque           | Tow service            |
-| Silla de ruedas                | Wheel chair            |
-| Superficies de cola            | Tail surfaces          |
-| Tacómetro, cuentarrevoluciones | Tachometer             |
-| Timón de dirección             | Rudder                 |
-| Timón de profundidad           | Elevator               |
-| Tren de aterrizaje             | Landing gear           |
-| Tren de aterrizaje principal   | Main landing gear      |
-| Tren delantero                 | Nose gear              |
+| ESPAÑOL                           | INGLÉS                 |
+| --------------------------------- | ---------------------- |
+| Ala en flecha                     | Swept wing             |
+| Alas                              | Wings                  |
+| Alerones                          | Ailerons               |
+| Altímetro                         | Altimeter              |
+| Anemómetro                        | Airspeed indicator     |
+| Aterrizaje con el tren desplegado | Belly landing          |
+| Bodega                            | Hold                   |
+| Brújula                           | Compass                |
+| Cabina de pasaje                  | Cabin                  |
+| Cabina de pilotaje                | Cockpit - Flight deck  |
+| Camilla                           | Stretcher              |
+| Camioneta                         | Van                    |
+| Coche con espuma                  | Foam truck             |
+| Coche de bomberos                 | Fire truck             |
+| Compartimento de carga            | Cargo compartment      |
+| Compensadores                     | Trim tabs              |
+| Compresor de aire                 | Air compressor         |
+| Compuerta del tren de aterrizaje  | Landing gear hatch     |
+| Deflector de lluvia               | Rain remover           |
+| Depósito auxiliar                 | Auxiliary tank         |
+| Depósito de combustible           | Fuel tank              |
+| Depósito principal                | Main tank              |
+| Descongelador automático          | De-icer boot           |
+| Dispositivo director de vuelo     | Flight director        |
+| Dispositivos hipersustentadores   | Flaps                  |
+| Empenaje, cola                    | Empennage              |
+| Envergadura de ala                | Wing span              |
+| Escalera mecánica                 | Escalator              |
+| Estabilizador horizontal          | Horizontal stabilizer  |
+| Estabilizador vertical            | Vertical stabilizer    |
+| Motor                             | Engine                 |
+| Neumático                         | Tyre                   |
+| Office de abordo                  | Galley                 |
+| Palanca de mando                  | Control stick          |
+| Parabrisas                        | Windshield             |
+| Paracaídas de cola                | Tail parachute         |
+| Pata del tren de aterrizaje       | Landing gear leg       |
+| Patín de cola                     | Tail skid              |
+| Pedales                           | Pedals                 |
+| Polimotor                         | Multiengine            |
+| Puerta de emergencia              | Emergency door         |
+| Puerta delantera                  | Front door             |
+| Puerta trasera                    | Rear door              |
+| Punta de ala vertical             | Winglet                |
+| Repuestos                         | Spare parts            |
+| Reventón                          | Blow out -- tyre burst |
+| Rueda                             | Wheel                  |
+| Rueda de cola                     | Tail wheel             |
+| Rueda de morro                    | Nose wheel             |
+| Señalero                          | Marshal                |
+| Servicio de remolque              | Tow service            |
+| Silla de ruedas                   | Wheel chair            |
+| Superficies de cola               | Tail surfaces          |
+| Tacómetro, cuentarrevoluciones    | Tachometer             |
+| Timón de dirección                | Rudder                 |
+| Timón de profundidad              | Elevator               |
+| Tren de aterrizaje                | Landing gear           |
+| Tren de aterrizaje principal      | Main landing gear      |
+| Tren delantero                    | Nose gear              |
+
 

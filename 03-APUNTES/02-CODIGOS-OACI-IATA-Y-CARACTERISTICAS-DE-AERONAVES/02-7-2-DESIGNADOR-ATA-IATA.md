@@ -1,13 +1,12 @@
 
-# Designador ATA/IATA.
+# 7.2 Designador ATA/IATA.
 
 Los identificadores que permiten clasificar los tipos de aeronave están formados por:
-
-1. Designador general: Código de tres caracteres que se asigna a cada familia de aviones con una misma configuración (pasajeros, carga o mixta) y una sección de fuselaje común.
-2. Subtipo de avión: Código de tres caracteres que se asigna cuando existen diferentes modelos en la misma familia de avión (de distinta longitud de fuselaje, envergadura de ala, etc.).
-3. Categoría:
+- a. Designador general: Código de tres caracteres que se asigna a cada familia de aviones con una misma configuración (pasajeros, carga o mixta) y una sección de fuselaje común.
+- b. Subtipo de avión: Código de tres caracteres que se asigna cuando existen diferentes modelos en la misma familia de avión (de distinta longitud de fuselaje, envergadura de ala, etc.).
+- c. Categoría:
 	- H: Helicopter (helicóptero).
-	- J: Jet engine (turborreactor) Precedido del nº de motores.
+	- o J: Jet engine (turborreactor) Precedido del nº de motores.
 	- P: Piston engine (motor de pistón) Precedido de nº de motores.
 	- S: Seaplane (hidroavión).
 	- T: Turboprop (tubohélice) Precedido del nº de motores.

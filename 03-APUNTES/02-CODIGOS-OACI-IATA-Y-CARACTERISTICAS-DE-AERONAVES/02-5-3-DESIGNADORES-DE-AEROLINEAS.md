@@ -1,5 +1,5 @@
 
-# 5.3. Designadores de Aerolíneas.
+# 5.3 Designadores de Aerolíneas.
 
 Los códigos que permiten identificar a las aerolíneas constan de dos caracteres alfanuméricos. A veces se asigna un código duplicado, es decir, el mismo código es utilizado por dos transportistas para operar diferentes tipos de servicio. Estos casos se indican con un asterisco después del designador.
 
@@ -16,9 +16,10 @@ A continuación, se presentan algunos ejemplos de designadores IATA correspondie
 | IBERIA                             | IB          | IBE             | España                 |
 | Japan Airlines                     | JL          | JAL             | Japón                  |
 | Jat Airways                        | JU          | JAT             | Serbia                 |
-| Kuwait Airways                     | KU          | KAC             | Kywait                 |
+| Kuwait Airways                     | KU          | KAC             | Kuwait                 |
 | Scandinavian Airlines System (SAS) | SK          | SAS             | Suecia                 |
 | Vueling                            | VY          | VLG             | Vueling                |
+
 
 Los códigos designadores de aerolíneas se pueden consultar en el documento “Airline Coding Directory (ACD)” que IATA edita y actualiza periódicamente.
 

@@ -3,12 +3,12 @@
 ## Índice.
 
 Contenido
-- [1. Plan de vuelo. Conceptos previos.](./06-1-0-PLAN-DE-VUELO-CONCEPTOS-PREVIOS-INDICE.md)
-- [2. Mensajes relacionados con el plan de vuelo.](./06-2-0-MENSAJES-RELACIONADOS-CON-EL-PLAN-DE-VUELO-INDICE.md)
-- [3. Gestión de la Capacidad y Afluencia de tráfico; ATFCM (Air Traffic Flow and Capacity Management).](./06-3-0-GESTION-DE-LA-CAPACIDAD-Y-AFLUENCIA-DE-TRAFICO-ATFCM-INDICE.md)
-- [4. FUA (Uso flexible del espacio aéreo / flexible use of airspace).](./06-4-0-FUA-USO-FLEXIBLE-DEL-ESPACIO-AEREO-INDICE.md)
-- [5. Acrónimos.](./06-5-0-ACRONIMOS.md)
-- [6. Bibliografía.](./06-6-0-BIBLIOGRAFIA.md)
+- [1. Plan de vuelo. Conceptos previos.](06-1-0-PLAN-DE-VUELO-CONCEPTOS-PREVIOS-INDICE.md)
+- [2. Mensajes relacionados con el plan de vuelo.](06-2-0-MENSAJES-RELACIONADOS-CON-EL-PLAN-DE-VUELO-INDICE.md)
+- [3. Gestión de la Capacidad y Afluencia de tráfico; ATFCM (Air Traffic Flow and Capacity Management).](06-3-0-GESTION-DE-LA-CAPACIDAD-Y-AFLUENCIA-DE-TRAFICO-ATFCM-INDICE.md)
+- [4. FUA (Uso flexible del espacio aéreo / flexible use of airspace).](06-4-0-FUA-USO-FLEXIBLE-DEL-ESPACIO-AEREO-INDICE.md)
+- [5. Acrónimos.](06-5-0-ACRONIMOS.md)
+- [6. Bibliografía.](06-6-0-BIBLIOGRAFIA.md)
 
 ## INTRODUCCIÓN.
 La información referente al vuelo proyectado, o a parte del mismo, que ha de suministrarse a las dependencias de los servicios de tránsito aéreo, se dará en forma de Plan de Vuelo.

@@ -1,5 +1,5 @@
 
-# 6.2. Características básicas para el reconocimiento de Aeronaves.
+# 6.2 Características básicas para el reconocimiento de Aeronaves.
 
 Las aeronaves se pueden reconocer de acuerdo a las siguientes características externas: por el tipo de ala, por el tipo de flecha, por el tipo de cola, por el tipo de motorización, por el número de motores, por el lugar de ubicación de los motores y por las características del tren de aterrizaje.
 
@@ -91,7 +91,7 @@ A continuación, se muestran imágenes de cada una de estas características.
 
 ![[035-8-MOTORES.jpg]]
 
-## 6.2.6 Tipos de Aeronaves según el lugar de ubicación de los motores.
+## 6.2.6 Tipos de Aeronaves según el lugar de ubicación de los motores:
 
 **MOTOR EN EL MORRO**.
 
@@ -105,7 +105,7 @@ A continuación, se muestran imágenes de cada una de estas características.
 
 ![[038-MOTOR-EN-FUSELAJE.jpg]]
 
-**MOTOR EN EL ALA Y EMPENAJE**.
+**MOTOR EN EL ALA Y EL EMPENAJE**.
 
 ![[039-MOTOR-EN-ALA-Y-EMPENAJE.jpg]]
 
@@ -113,17 +113,17 @@ A continuación, se muestran imágenes de cada una de estas características.
 
 ![[040-MOTOR-EN-FUSELAJE-Y-EMPENAJE.jpg]]
 
-## 6.2.7. Tipos de Aeronaves según las características del tren de aterrizaje (sólo en aeronaves ligeras o de características especiales):
+## 6.2.7 Tipos de Aeronaves según las características del tren de aterrizaje (sólo en aeronaves ligeras o de características especiales):
 
 **AERONAVES DE TREN FIJO SIN CARENADO**.
 
 ![[041-AERONAVE-TREN-FIJO-SIN-CARENADO.jpg]]
 
-**AERONAVES DE TREN FIJO CON CARENADO**.
+**AERONAVES DE TREN FIJO CARENADO**.
 
 ![[042-AERONAVE-TREN-FIJO-CARENADO.jpg]]
 
-**AERONAVES DE TREN RETRACTIL**.
+**AERONAVES DE TREN RETRÁCTIL**.
 
 ![[042-AERONAVE-TREN-FIJO-CARENADO.jpg]]
 

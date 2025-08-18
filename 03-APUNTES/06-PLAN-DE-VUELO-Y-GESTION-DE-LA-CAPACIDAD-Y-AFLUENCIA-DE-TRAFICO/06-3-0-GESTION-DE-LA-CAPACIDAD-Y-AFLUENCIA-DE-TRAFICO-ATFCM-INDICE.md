@@ -3,13 +3,13 @@
 
 ## Índice.
 
-- [3.1 Generalidades.](./06-3-1-GENERALIDADES.md)
-- [3.2 NM (Gestor de Red / Network Manager).](./06-3-2-NM-GESTOR-DE-RED-NETWORK-MANAGER.md)
-- [3.3 Unidad Central de Gestión de Tránsito aéreo (UCATM).](./06-3-3-UNIDAD-CENTRAL-DE-GESTION-DE-TRAFICO-AEREO-UCATM.md)
+- [3.1 Generalidades.](06-3-1-GENERALIDADES.md)
+- [3.2 NM (Gestor de Red / Network Manager).](06-3-2-NM-GESTOR-DE-RED-NETWORK-MANAGER.md)
+- [3.3 Unidad Central de Gestión de Tránsito aéreo (UCATM).](06-3-3-UNIDAD-CENTRAL-DE-GESTION-DE-TRAFICO-AEREO-UCATM.md)
 	- 3.3.1 Fases de la actividad ATFCM.
 	- 3.3.2 Análisis Post-Operacional.
-- [3.4 Tratamiento de los planes de vuelo dentro del proceso ATFCM.](./06-3-4-TRATAMIENTO-DE-LOS-PLANES-DE-VUELO-DENTRO-DEL-PROCESO-ATFCM.md)
-- [3.5 Demanda y capacidad.](./06-3-5-DEMANDA-Y-CAPACIDAD.md)
+- [3.4 Tratamiento de los planes de vuelo dentro del proceso ATFCM.](06-3-4-TRATAMIENTO-DE-LOS-PLANES-DE-VUELO-DENTRO-DEL-PROCESO-ATFCM.md)
+- [3.5 Demanda y capacidad.](06-3-5-DEMANDA-Y-CAPACIDAD.md)
 	- 3.5.1 Definiciones.
 	- 3.5.2 Tipos de capacidad.
 	- 3.5.3 Determinación de la capacidad.

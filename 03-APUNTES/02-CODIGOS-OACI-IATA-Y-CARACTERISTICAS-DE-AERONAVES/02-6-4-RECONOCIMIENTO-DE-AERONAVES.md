@@ -26,7 +26,7 @@ Las aeronaves se presentan en seis grupos, por utilidad y tipo de motorización.
 - Tipo aeronave.
 	- L4J.
 - Velocidad de crucero (TAS).
-	- M0.78..
+	- M0.78.
 - Régimen máximo de ascenso.
 	- 1000.
 - Techo de vuelo (FL).
@@ -68,7 +68,7 @@ Las aeronaves se presentan en seis grupos, por utilidad y tipo de motorización.
 - Tipo aeronave.
 	- L2J.
 - Velocidad de crucero (TAS).
-	- M0.81..
+	- M0.81.
 - Régimen máximo de ascenso.
 	- 2000.
 - Techo de vuelo (FL).
@@ -198,7 +198,7 @@ Las aeronaves se presentan en seis grupos, por utilidad y tipo de motorización.
 - Régimen máximo de ascenso.
 	- 2000
 - Techo de vuelo (FL).
-	- 140
+	- 410
 - Estela de turbulencia.
 	- M
 

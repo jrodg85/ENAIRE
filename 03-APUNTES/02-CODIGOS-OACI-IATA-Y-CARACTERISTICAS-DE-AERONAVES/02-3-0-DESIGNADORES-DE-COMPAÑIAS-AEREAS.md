@@ -2,6 +2,7 @@
 # 3. Designadores de compañías aéreas.
 
 OACI establece dos tipos de designadores para la identificación de empresas explotadoras de aeronaves, así como oficiales y de aviación internacional.
+
 - Designadores telegráficos. Grupos de tres letras destinados para uso en el servicio internacional de telecomunicaciones. Se utilizan para identificar a las compañías aéreas, entidades y servicios gubernamentales, así como otros suministradores de servicios aeronáuticos.
 - Designadores telefónicos. Sirven para identificar a las empresas explotadoras en las comunicaciones. Además, se pueden utilizar como parte del distintivo de llamada radiotelefónico de la aeronave, seguido de la identificación del vuelo en las comunicaciones radiotelefónicas. Por ejemplo: IBERIA 301.
 
@@ -15,12 +16,12 @@ Es importante apuntar que los designadores OACI para empresas explotadoras no co
 
 En muchos casos el designador telefónico coincide con el nombre comercial de la empresa, pero hay otros en los que no es así, como se muestra en los siguientes ejemplos:
 
-|              EMPRESA EXPLOTADORA DE LA AERONAVE              | DESIGNADOR TELEGRÁFICO | DESIGNADOR TELEFONICO |
-| :----------------------------------------------------------: | :--------------------: | :-------------------: |
-|                          AIR FRANCE                          |          AFR           |       AIRFRANS        |
-|                    AMERICAN AIRLINES INC.                    |          AAL           |       AMERICAN        |
-|                       BRITISH AIRWAYS                        |          BAW           |       SPEEDBIRD       |
-| IBERIA - LINEAS AEREAS DE ESPANA, SOCIEDAD ANONIMA OPERADORA |          IBE           |        IBERIA         |
-|                           RYANAIR                            |          RYR           |        RYANAIR        |
-|                       VUELING AIRLINES                       |          VLG           |        VUELING        |
+|            EMPRESA EXPLOTADORA<br>DE LA AERONAVE             | DESIGNADOR TELEGRÁFICO | ESIGNADOR TELEFÓNICO |
+| :----------------------------------------------------------: | :--------------------: | :------------------: |
+|                          AIR FRANCE                          |          AFR           |       AIRFRANS       |
+|                    AMERICAN AIRLINES INC.                    |          AAL           |       AMERICAN       |
+|                       BRITISH AIRWAYS                        |          BAW           |      SPEEDBIRD       |
+| IBERIA - LINEAS AEREAS DE ESPANA, SOCIEDAD ANONIMA OPERADORA |          IBE           |        IBERIA        |
+|                           RYANAIR                            |          RYR           |       RYANAIR        |
+|                       VUELING AIRLINES                       |          VLG           |       VUELING        |
 

@@ -1,50 +1,49 @@
 
-# 10. Acrónimos, siglas y abreviaturas.
+# 10. ACRONIMOS, SIGLAS Y ABREVIATURAS.
 
-- ACC.
+- **ACC**.
 	- Area control centre / Centro de control de área.
-- ACD.
+- **ACD**.
 	- Airline Coding Directory.
-- AFS.
+- **AFS**.
 	- Aeronautical fixed service / Servicio fijo aeronáutico.
-- ATA.
+- **ATA**.
 	- American Transport Association.
-- ATS.
+- **ATS**.
 	- Air traffic services / Servicios de tránsito aéreo.
-- FAA.
+- **FAA**.
 	- Federal Aviation Administration.
-- FIC.
+- **FIC**.
 	- Flight information centre / Centro de información de vuelo.
-- FIR.
+- **FIR**.
 	- Flight information región / Región de información de vuelo.
-- FL.
+- **FL**.
 	- Flght level / Nivel de vuelo.
-- ft.
+- **ft**.
 	- Feet / Pies.
-- IATA.
+- **IATA**.
 	- International Air Transport Association / Organización Internacional para el Transporte Aéreo.
-- KT.
+- **KT**.
 	- Knots / Nudos.
-- MIN.
+- **MIN**.
 	- Minute / Minuto.
-- MTOW.
+- **MTOW**.
 	- Maximum take-off weight / Peso máximo al despegue.
-- OAC.
+- **OAC**.
 	- Oceanic area control centre / Centro de control de área oceánica.
-- OACI.
+- **OACI**.
 	- Organización de Aviación Civil Internacional.
-- SSIM.
+- **SSIM**.
 	- Standard Schedules Information Manual.
-- TACC.
+- **TACC**.
 	- Terminal area control centre / Centro de control de área terminal.
-- TAS.
+- **TAS**.
 	- True Airspeed / Velocidad verdadera.
-- UAC.
+- **UAC**.
 	- Upper area control centre / Centro de control de área superior.
-- UIR.
+- **UIR**.
 	- Upper flight information region / Región superior de información de vuelo.
-- UP.
+- **UP**.
 	- Upper level / Límite superior.
-- WTC.
+- **WTC**.
 	- Wake turbulence category / Categoría de estela turbulenta.
-

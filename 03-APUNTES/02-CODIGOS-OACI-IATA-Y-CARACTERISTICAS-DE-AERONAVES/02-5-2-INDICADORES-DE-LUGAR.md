@@ -1,5 +1,5 @@
 
-# 5.2. Indicadores de lugar.
+# 5.2 Indicadores de lugar.
 
 Los indicadores de lugar lATA están formados por tres letras y permiten identificar localizaciones de interés operativo para las aerolíneas, principalmente aeropuertos.
 
@@ -17,7 +17,7 @@ A continuación, se presentan los indicadores IATA correspondientes a aeropuerto
 | BARCELONA/Josep Tarradellas Barcelona - El Prat | BCN         |
 | BILBAO                                          | BIO         |
 | BURGOS/Villafría                                | RGS         |
-| CADIZ/Rota                                      | ROX         |
+| CADIZ/Rota                                      | ROZ         |
 | CASTELLÓN                                       | CDT         |
 | CIUDAD REAL                                     | CQM         |
 | CÓRDOBA                                         | ODB         |
