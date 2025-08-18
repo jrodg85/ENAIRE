@@ -23,7 +23,7 @@ El coeficiente de sustentación depende, para cada perfil, del ángulo de ataque
 
 ## Índice.
 
-- 4.1 Peso.
-- 4.2 Resistencia.
-- 4.3 Empuje.
+- [4.1 Peso.](./09-4-1-PESO.md)
+- [4.2 Resistencia.](./09-4-2-RESISTENCIA.md)
+- [4.3 Empuje.](./09-4-3-EMPUJE.md)
 

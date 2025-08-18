@@ -7,7 +7,7 @@ Pues bien, al hablar de factor humano, la comunicación tiene una importancia si
 
 ## Índice.
 
-- 4.1 El proceso humano de comunicación.
-- 4.2 Factores que afectan a la comunicación verbal.
-- 4.3 La comunicación no verbal: importancia y factores que influyen.
+- [4.1 El proceso humano de comunicación.](./08-4-1-EL-PROCESO-DE-COMUNICACION.md)
+- [4.2 Factores que afectan a la comunicación verbal.](./08-4-2-FACTORES-QUE-AFECTAN-A-LA-COMUNICACION-VERBAL.md)
+- [4.3 La comunicación no verbal: importancia y factores que influyen.](./08-4-3-LA-COMUNICACION-NO-VERBAL-IMPORTANCIA-Y-FACTORES-QUE-INFLUYEN.md)
 

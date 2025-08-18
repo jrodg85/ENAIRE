@@ -7,5 +7,5 @@ En un contexto operativo, podemos definir el error como una situación en la que
 
 ## Índice.
 
-- 7.1 Modelo GEMS de Reason.
-- 7.2 Modelo TEM (Threat and Error Management).
+- [7.1 Modelo GEMS de Reason.](./08-7-1-MODELO-GEMS-DE-REASON.md)
+- [7.2 Modelo TEM (Threat and Error Management).](./08-7-2-MODELO-TEM-THREAT-AND-ERROR-MANAGEMENT.md)
