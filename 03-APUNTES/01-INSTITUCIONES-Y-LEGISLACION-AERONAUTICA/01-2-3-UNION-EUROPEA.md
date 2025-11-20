@@ -106,10 +106,14 @@ La citada propuesta de la Comisión fue aprobada en el Parlamento y Consejo Euro
 	- EUROCONTROL.
 
 **Proveedores de servicios de navegación aérea**.
+- 1. Separación de las funciones de provisión de servicio de navegación aérea y supervisión: cada Estado ha designado Autoridades Nacionales de Supervisión (ANS). España ha designado como ANS a la Agencia Estatal de Seguridad Aérea (AESA), para los servicios civiles de navegación excluyendo los servicios meteorológicos.
+- 2. Certificación de proveedores de servicio de tránsito aéreo: los proveedores de servicios de navegación aérea están sujetos a certificación por parte de las ANS, estableciendo los requisitos comunes y el nivel exigible de calidad para la prestación de dichos servicios.
+
+**Creación de órganos**.
 - 1. Establecimiento de un regulador comunitario:
 	- Que tenga suficientes recursos y autonomía respecto de los diferentes intereses que permitan definir normas de alto nivel y garantizar su cumplimiento.
 	- Que defina objetivos ambiciosos o incluso mejore los niveles de seguridad.
-- Esta función es asumida por la Comisión Europea.
+	- Esta función es asumida por la Comisión Europea.
 - 2. Establecimiento de un Gestor de Red Europeo (Network Manager- NM) Ver punto 2.4.6.3.
 
 **Sistemas de evaluación**.
