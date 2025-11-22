@@ -26,7 +26,7 @@
 	- Reglamentación.
 		- Reglamentación de la circulación aérea.
 		- Organización y reglamentación de la búsqueda y salvamento.
-	- Otras 
+	- Otras.
 		- Cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la navegación aérea al objeto de su reglamentación, perfeccionamiento y desarrollo.
 		- Cualquier otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecte a la aviación militar o a los intereses de la defensa nacional.
 

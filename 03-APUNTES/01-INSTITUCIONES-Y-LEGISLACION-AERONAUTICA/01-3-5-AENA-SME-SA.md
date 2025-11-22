@@ -1,7 +1,7 @@
 
 # 3.5. Aena S.M.E., S.A.
 
-Aena S.M.E., S.A. (antes Aena Aeropuertos, S.A.) es una sociedad mercantil estatal que gestiona 46 aeropuertos y 2 helipuertos españoles de interés general. A través de su filial Aena Internacional, participa también en la gestión de 33 aeropuertos en distintos países.
+Aena S.M.E., S.A. (antes Aena Aeropuertos, S.A.) es una sociedad mercantil estatal que gestiona 46 aeropuertos y 2 helipuertos españoles de interés general. A través de su filial Aena Internacional, participa también en la gestión de 32 aeropuertos en distintos países.
 
 ## 3.5.1. Orígenes.
 
@@ -9,7 +9,7 @@ Se constituye por el Real Decreto 905/1991 con ente público bajo las siglas AEN
 
 En 1998 nace AENA Internacional para gestionar el desarrollo de su negocio fuera de España, siendo el primer paso de AENA en el ámbito internacional en 1997 con el contrato de concesión del aeropuerto de Barranquilla (Colombia).
 
-Entre el 2000 y el 2010 se lleva a cabo la mejora y ampliación de tres grande aeropuertos mediante el Plan Barajas, el Plan Barcelona y el Plan Málaga, además de la ampliación de la red con nuevos aeropuertos en Logroño, Albacete, Burgos y Huesca-Pirineos.
+Entre el 2000 y el 2010 se lleva a cabo la mejora y ampliación de tres grandes aeropuertos mediante el Plan Barajas, el Plan Barcelona y el Plan Málaga, además de la ampliación de la red con nuevos aeropuertos en Logroño, Albacete, Burgos y Huesca-Pirineos.
 
 En virtud del Real Decreto-ley 13/2010 se liberaliza la prestación de servicios aeroportuarios, creándose Aena Aeropuertos, S.A. con un 49% de capital privado. Mientras que Aeropuertos Españoles y Navegación Aérea mantiene su naturaleza y régimen jurídico ejerciendo solo las competencias en materia de navegación aérea.
 
@@ -21,11 +21,11 @@ Desde el 11 de febrero de 2015, Aena, S.A. cotiza en Bolsa.
 
 ## 3.5.2. Gestión.
 
-Aena es el primer operador aeroportuario del mundo por número de pasajeros. Más de 633 millones pasaron por los aeropuertos españoles en los últimos tres años.
+Aena es el primer operador aeroportuario del mundo por número de pasajeros.
 
-La Sociedad gestiona 46 aeropuertos y 2 helipuertos en España y participa directa e indirectamente en la gestión de otros 33 aeropuertos en Europa y América, entre ellos el londinense de Luton, del que posee el 51% del capital.
+La Sociedad gestiona 46 aeropuertos y 2 helipuertos en España y participa directa e indirectamente en la gestión de otros 32 aeropuertos en Europa y América, entre ellos el londinense de Luton, del que posee el 51% del capital.
 
-Cerro el año 2019 con un récord histórico de 2,4 millones de operaciones y 275,2 millones de pasajeros.
+Cerro el año 2024 con un récord histórico de 2,5 millones de operaciones y 309,3 millones de pasajeros.
 
 ## 3.5.3. Funciones.
 

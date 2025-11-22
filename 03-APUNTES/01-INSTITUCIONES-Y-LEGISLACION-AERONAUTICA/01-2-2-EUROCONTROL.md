@@ -3,7 +3,7 @@
 
 ## 2.2.1 Orígenes.
 
-EUROCONTROL es la Organización Europea para la Seguridad de la Navegación Aérea. Creada en 1960, es una organización intergubernamental civil y militar que cuenta actualmente con 41 Estados Miembros de toda Europa más 2 Estados del Acuerdo Global (Israel y Marruecos). Su sede está en Bruselas, con oficinas especializadas en otros tres países europeos (Países Bajos, Francia y Luxemburgo).
+EUROCONTROL es la Organización Europea para la Seguridad de la Navegación Aérea. Creada en 1960, es una organización intergubernamental civil y militar dedicada a apoyar la aviación europea. Cuenta actualmente con 42 Estados Miembros de Europa más 2 Estados del Acuerdo Global (Israel y Marruecos). Su sede está en Bruselas, con oficinas especializadas en otros tres países europeos (Países Bajos, Francia y Luxemburgo).
 
 España es miembro desde 1997 y, el 8 de octubre de 2002, se firmó el protocolo de adhesión de la Unión Europea al Convenio Revisado de EUROCONTROL, que ratificó en 2016 el parlamento español.
 
@@ -83,7 +83,7 @@ Hasta el momento, se han aprobado seis normas ESARR que se han ido integrando en
 
 ## 2.2.7 EAD (European AIS Database / Base de datos AIS a nivel europeo).
 
-EUROCONTROL tiene una posición particular en Europa, ya que tiene una visión europea global sobre los asuntos de gestión del tráfico aéreo en sus 41 Estados Miembros, y una serie de acuerdos bilaterales con otros proveedores.
+EUROCONTROL tiene una posición particular en Europa, ya que tiene una visión europea global sobre los asuntos de gestión del tráfico aéreo en sus 42 Estados Miembros, y una serie de acuerdos bilaterales con otros proveedores.
 
 A este respecto cabe mencionar los servicios EAD, la base de datos AIS desarrollada por los estados miembros de EUROCONTROL con vista a asegurar la calidad de los datos aeronáuticos que contiene y destinada a su uso compartido por todos los usuarios del espacio aéreo.
 
@@ -95,7 +95,7 @@ Es el centro de control de tráfico aéreo de EUROCONTROL y proporciona servicio
 
 ## 2.2.9 Participación de España.
 
-España, como miembro de EUROCONTROL, pertenece y tiene representación en la Comisión Permanente y en el Consejo Provisional, y asimismo participa en el Comité de Coordinación del Consejo Provisional. Además participa con expertos en las reuniones de trabajo que se desarrollan en los distintos órganos consultivos.
+España, como miembro de EUROCONTROL, pertenece y tiene representación en la Comisión Permanente y en el Consejo Provisional, y asimismo participa en el Comité de Coordinación del Consejo Provisional. Además, participa con expertos en las reuniones de trabajo que se desarrollan en los distintos órganos consultivos.
 
 ## 2.2.10 Participación ENAIRE.
 

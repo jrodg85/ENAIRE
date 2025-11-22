@@ -1,5 +1,6 @@
 
 # 3.3. DGAC (DIRECCIÓN GENERAL DE AVIACIÓN CIVIL)
+
 La Dirección General de Aviación Civil (DGAC) es el órgano mediante el cual el Ministerio de Transportes Movilidad Sostenible diseña la estrategia, dirige la política aeronáutica, a cuyo efecto coordina a los organismos, entes y entidades adscritos al Departamento con funciones en aviación civil, y ejerce de regulador en el sector aéreo, dentro de las competencias de la Administración General del Estado.
 
 ## 3.3.1. Funciones.
@@ -58,6 +59,7 @@ La Dirección de Aviación Civil (DGAC) depende del Ministerio de Transportes y 
 
 Adscrita a la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible, es el organismo oficial encargado de realizar la investigación de los accidentes e incidentes de aviación civil que se producen en territorio español.
 - 1. La investigación tiene un carácter exclusivamente técnico, su fin último es la prevención de futuros accidentes e incidentes, y no está dirigida a determinar ni establecer culpa o responsabilidad de tipo alguno.
-- 2. Los resultados de la investigación se plasman en un informe que contempla la información factual en relación con el accidente o incidente, un análisis de la misma, unas conclusiones y unas recomendaciones en materia de seguridad. Estas recomendaciones constituyen el medio que se considera más adecuado para proponer medidas que permitan aumentar la seguridad aérea.
+- 2. Los resultados de la investigación se plasman en un informe que contempla la información factual en relación con el accidente o incidente, un análisis de la misma, unas conclusiones y unas recomendaciones.
+- 3. En materia de seguridad. Estas recomendaciones constituyen el medio que se considera más adecuado para proponer medidas que permitan aumentar la seguridad aérea.
 
 La CIAIAC cuenta con personal y medios propios adecuados para el desarrollo de su actividad, así como con la colaboración puntual de organismos y especialistas externos.

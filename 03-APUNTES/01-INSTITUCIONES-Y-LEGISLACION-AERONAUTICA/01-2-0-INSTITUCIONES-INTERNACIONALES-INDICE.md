@@ -2,6 +2,7 @@
 # 2. INSTITUCIONES INTERNACIONALES.
 
 La Navegación Aérea, como fenómeno que va más allá de las fronteras de los Estados, necesita de acuerdos y criterios comunes para el desarrollo y operación de los servicios aéreos internacionales. Los organismos internacionales constituyen el principal foro legal, humano y físico para la consecución de acuerdos y compromisos.
+
 Las organizaciones internacionales son creadas para gestionar intereses colectivos por medio de un tratado y dotadas de órganos para cumplir sus fines. Están compuestas por Estados y tanto su organización como fines se determinan mediante tratados, cartas, convenciones, etc.
 
 ## Índice.
@@ -37,7 +38,7 @@ Las organizaciones internacionales son creadas para gestionar intereses colectiv
 	- 2.4.2 Misión.
 	- 2.4.3 Objetivos.
 	- 2.4.4 Estructura.
-	- 2.4.5 Normativa.
+	- 2.4.5 Proceso de elaboración de normas.
 - [2.5 OTRAS ORGANIZACIONES.](01-2-5-OTRAS-ORGANIZACIONES.md)
 
 

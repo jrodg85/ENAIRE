@@ -1,14 +1,19 @@
 
-# 2.4 EASA (EUROPEAN AVIATION SAFETY AGENCY / LA AGENCIA EUROPEA DE SEGURIDAD AÉREA).
+# 2.4 EASA (EUROPEAN UNION AVIATION SAFETY AGENCY / AGENCIA DE SEGURIDAD AÉREA DE LA UNIÓN EUROPEA).
 
 ## 2.4.1 Orígenes.
-La Agencia Europea de Seguridad Aérea es el componente esencial de la estrategia de seguridad aérea de la Unión Europea y se creó en virtud del Reglamento (CE) nº 1592/2002 del Parlamento Europeo y del Consejo, de 15 de julio de 2002 (derogado por el Reglamento UE 2018/1139).
+
+La Agencia de seguridad aérea de la Unión Europea es el componente esencial de la estrategia de seguridad aérea de la Unión Europea, se creó en 2002 y actualmente se rige por el Reglamento UE 2018/1139.
 
 Tiene estatus de organismo comunitario y personalidad jurídica propia, mediante la que puede establecer sus propias sedes locales en los Estados miembros, previo consentimiento de éstos.
 
 ## 2.4.2 Misión.
 
-Promover los más altos niveles comunes de seguridad y de protección del medio ambiente de la aviación civil.
+- Garantizar los más altos niveles comunes de seguridad para los ciudadanos de la Unión Europea y de protección del medio ambiente de la aviación civil.
+- Un proceso único de reglamentación y certificación entre los Estados miembros.
+- Facilitar el mercado único interno de la aviación y crear igualdad de condiciones.
+- Colaborar con otras organizaciones y organismos reguladores internacionales de la aviación.
+
 
 ## 2.4.3 Objetivos.
 
@@ -46,6 +51,6 @@ Su estructura se compone de:
 	- Se convocará a la sala o salas de recursos siempre que sean necesarios.
 	- La Comisión decidirá el número de salas de recursos y el reparto de tareas.
 
-## 2.4.5 Normativa.
+## 2.4.5 Proceso de elaboración de normas.
 
-Son normas legalmente vinculantes.
+La Agencia elabora material normativo en forma de reglamentos de ejecución, medios aceptables de cumplimiento, material guía y especificaciones de certificación. Estos documentos están disponibles para consulta (como términos de referencia (ToR), avisos de modificación propuesta (NPA) y documentos de respuesta a comentarios (CRD)). Tras la consulta, los proyectos de reglamentos de ejecución se envían a la Comisión Europea, que, si supera la revisión del Parlamento Europeo y del Consejo, se publicará en el Diario Oficial de la Unión Europea.

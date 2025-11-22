@@ -12,11 +12,11 @@ Conforme a la Ley 09/2010, ENAIRE es la empresa designada por el Estado para el 
 Controla un espacio aéreo que comprende la península Ibérica (excepto Portugal), Canarias, Baleares, parte del Atlántico norte, del oeste del Mediterráneo y el Sáhara Occidental, en total 2,19 millones de kilómetros cuadrados.
 
 La gestión de este espacio aéreo lo hace a través de:
-- a) Cinco direcciones regionales de Navegación Aérea: Centro Norte, Este, Canaria, Sur y Baleares, cuyas sedes se ubican respectivamente en los centros de control (ACC) de Madrid, Barcelona, Canarias, Sevilla y Palma de Mallorca. 
-- b) Dos centros ce control de área terminal (TACC) en Santiago y Valencia.
+- a) Cinco direcciones regionales de Navegación Aérea: Centro Norte, Este, Canaria, Sur y Baleares, cuyas sedes se ubican respectivamente en los centros de control (ACC) de Madrid, Barcelona, Canarias, Sevilla y Palma de Mallorca.
+- b) Dos centros de control de área terminal (TACC) en Santiago y Valencia.
 - c) Veintiuna torres de control.
 
-En 2023 se han gestionado más de 2,19 millones de vuelos, con una eficiencia de vuelo en ruta del 96,7%, lo que le convierte en uno de los cuatro mayores gestores de navegación aérea de Europa.
+En 2024 se han gestionado más de 2,5 millones de vuelos, con una eficiencia de vuelo en ruta del 96,7%, lo que le convierte en uno de los cuatro mayores gestores de navegación aérea de Europa.
 
 ## 3.6.3. Funciones.
 

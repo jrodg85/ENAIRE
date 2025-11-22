@@ -12,7 +12,7 @@ Incluye los acuerdos y tratados multilaterales y convenios bilaterales por los q
 
 **ACUERDOS MULTILATE-RALES**.
 - Partes.
-	- Son acuerdos entre varias partes. 
+	- Son acuerdos entre varias partes.
 - Ordenamiento.
 	- En España solamente formarán parte de nuestro ordenamiento jurídico como normas de obligado cumplimiento, los convenios internacionales que hayan sido ratificados y publicados en el BOE.
 - Tipos.

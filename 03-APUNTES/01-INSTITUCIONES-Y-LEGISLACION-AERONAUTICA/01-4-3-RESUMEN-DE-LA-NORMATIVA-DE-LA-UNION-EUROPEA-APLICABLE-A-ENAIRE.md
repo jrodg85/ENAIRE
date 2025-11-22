@@ -91,6 +91,17 @@
 - Reglamento (UE) 139/2014 que establece los requisitos y procedimientos administrativos relativos a los aeródromos.
 	- OBJETIVO.
 		- Establecer disposiciones detalladas sobre la certificación y supervisión de aeródromos y operadores de aeródromos por parte de una autoridad nacional competente (AESA para España). El presente Reglamento constituye una concreción de los requisitos del Reglamento (UE) 2018/1139 que deben cumplir los aeródromos. Además, establece una regulación detallada del proceso de certificación que deben seguir los operadores de aeródromos, sus responsabilidades y limitaciones a las operaciones permitidas. Por último, se regula el procedimiento para la validez de las declaraciones de proveedores SDP, sus funciones y organización, así como las operaciones de dirección en la plataforma.
+- Reglamento (UE) 2015/340 que establece requisitos técnicos y procedimientos administrativos relativos a licencias y certificados de ATCOs.
+	- OBJETIVO.
+		- Establecer los requisitos técnicos y los procedimientos administrativos relativos a las licencias y certificados de ATCOs y alumnos ATCOs. Para ello, sienta las definiciones básicas (habilitación, anotación, etc.) y articula los requisitos detallados y uniformes que deben cumplirse materia de:
+			- Competencia lingüística.
+			- Formación, cualificación y aptitud.
+			- Evaluación médica a cargo de médicos examinadores y de centros médicos aeronáuticos.
+		- Además, se establecen los requisitos para un sistema de administración y gestión operado por las autoridades competentes, de conformidad con el Programa de Seguridad Estatal de OACI. Por otro lado, se articulan los requisitos relativos a la certificación de las organizaciones de formación.
+- Reglamento (UE) 2017/373 que establece requisitos comunes para los proveedores ATM/ANS y otras funciones de la red ATM y su supervisión.
+	- OBJETIVO.
+		- Establecer los requisitos comunes para la certificación y supervisión de ANSPs y funciones de la red ATM.
+		- Además, también dispone los requisitos para la certificación y supervisión de organizaciones proveedoras de servicios DAT y también de NM. El Reglamento (UE) 2020/469 introduce cambios en la regulación de la provisión ATS, en consonancia con la adopción de la 7ª edición del Anexo 10 (Volumen II) y la 15ª edición del Anexo 11 del Convenio de OACI y la 16ª edición del Doc. 4444 (PANS-ATM). También sustituye los requisitos establecidos para la provisión AIS, de acuerdo con las SARPs de la 16ª edición del Anexo 15 y de la enmienda 77-B del Anexo 3 del Convenio de OACI, de forma que reflejen el estado actual de la técnica en materia de seguridad aérea e incluyan además disposiciones detalladas sobre la calidad de los datos e información aeronáuticos. Por último, el Reglamento (UE) 2020/469 da contenido al Anexo XI estableciendo normas técnicas comunes para el diseño de estructuras del espacio aéreo, así como requisitos comunes para los proveedores FDP.
 - Reglamento (UE) 2018/1048 que establece los requisitos de utilización del espacio aéreo y los procedimientos operativos en relación con PBN.
 	- OBJETIVO.
 		- Establecer los requisitos de utilización del espacio aéreo y procedimientos operativos en relación con la navegación PBN.

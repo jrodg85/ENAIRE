@@ -1,4 +1,6 @@
 
+# 4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES PARA ENAIRE.
+
 El conjunto de normas que se ha procedido a resumir está formado por leyes, reales decretos, órdenes ministeriales y resoluciones que se han estructurado de la siguiente manera:
 - Normativa de primer nivel.
 	- Leyes esenciales en el ámbito de la navegación aérea que establecen el marco general de actuación, y que influyen en el resto de normas aplicables a la navegación aérea.
@@ -63,10 +65,43 @@ Dentro de cada grupo de normas, estas se clasifican atendiendo, en primer lugar,
 			- Establecimiento de Plan Director de navegación aérea.
 - Real Decreto 184/2008 que aprueba el Estatuto de AESA.
 	- Disposiciones generales. Organismo público, con régimen jurídico de Derecho público, que actúa con autonomía, control y responsabilidad por resultados, asistido legalmente por la Abogacía del Estado y adscrito al Ministerio de Transportes.
-	- Objeto.
+	- OBJETIVO.
 		- Establecer las funciones de ordenación, supervisión e inspección de la seguridad en el transporte aéreo y de los sistemas de navegación aérea y de seguridad aeroportuaria, en sus vertientes de inspección y control de productos aeronáuticos, de actividades aéreas y del personal aeronáutico, así como las funciones de detección, análisis y evaluación de la seguridad aérea.
 - Real Decreto 186/2008 que aprueba el Estatuto de AEMET.
 	- Disposiciones generales. Organismo público adscrito al Ministerio para la Transición Ecológica, régimen jurídico de Derecho público, con el objeto de desarrollar, implantar y prestar servicios meteorológicos de competencia del Estado y apoyar el ejercicio de otras políticas públicas y actividades privadas, contribuyendo a la seguridad de personas y bienes y al bienestar y desarrollo sostenible de la sociedad española.
+- Real Decreto 253/2024 que desarrolla la estructura orgánica básica del Ministerio de Transportes y Movilidad Sostenible.
+	- OBJETIVO.
+		- Instituir a la DGAC, que es el órgano del Ministerio de Transportes y Movilidad Sostenible encargado de formular propuestas de estrategia para la promoción del desarrollo sectorial, dirige la política aeronáutica establecida por el Gobierno, coordina las actuaciones de los organismos, entes y entidades adscritos y ejerce de regulador en el sector aéreo. Además, ubica a ENAIRE como entidad pública empresarial adscrita a la Secretaría de Estado de Transportes y Movilidad Sostenible. AESA está adscrita al mismo Ministerio, a través de la Secretaría General de Transportes Aéreo y Marítimo, dedicada a la supervisión del sector aéreo.
+- Real Decreto 160/2023 que aprueba el Estatuto de la entidad pública empresarial Enaire.
+	- OBJETIVO.
+		- Definir el régimen jurídico y económico-patrimonial, objeto y funciones, organización y funcionamiento de Enaire E.P.E. Régimen jurídico. Enaire E.P.E. es un organismo público, adscrito al Ministerio TMA, que realiza la dirección estratégica, evaluación de resultados y control de eficacia. El presente Real Decreto especifica las normas que aplican a cada uno de sus ámbitos de actuación. Puede promocionar o participar en sociedades mercantiles, previa conformidad del Ministerio TMA. Le corresponden los derechos derivados de su participación accionarial en Aena, S.M.E., S.A.
+	- Funciones:
+		- a) Prestación de forma segura, eficaz, continuada y sostenible de servicios ANS y espacio aéreo encomendados por el Estado.
+		- b) Coordinación operativa de la red nacional ATM y otras relacionadas con usos para gestión eficiente del espacio aéreo.
+		-	c) En los ámbitos de navegación aérea y estructuración del espacio aéreo, coordinación operativa de la red nacional ATM y usos para la gestión eficiente del espacio aéreo, Enaire E.P.E. debe ejercer las siguientes funciones:
+			- i. Elaboración de propuestas para establecimiento de Planes nacionales estratégicos de navegación aérea.
+			- ii. Coordinación general operativa de la red ATM.
+			- iii. Ejercicio de funciones en materia ATFM y ASM.
+			- iv. Coordinación operativa para establecimiento de reservas/restricciones del espacio aéreo para uso civil/militar, así como elaboración y tramitación de propuestas de modificación/creación de estructuras de espacio aéreo y su clasificación, distintos de FABs.
+			- v. Participación en definición de política, directrices y planificación estratégica del espacio aéreo y de sistemas ANS.
+			- vi. Participación en organizaciones relacionadas con funciones como ANSP o coordinador operativo de la red ATM.
+			- vii. Diseño, construcción y explotación de infraestructuras y sistemas ANS.
+			- viii. Elaboración de propuestas para establecimiento/modificación de servidumbres radioeléctricas y operativas.
+			- ix. Dirección, coordinación, explotación y gestión de servicios de seguridad en sus dependencias.
+			- x. Provisión de formación específica.
+			- xi. Participación en elaboración, seguimiento y ejecución de Planes de Rendimiento de la UE. 
+			- xii. Asesoramiento a autoridades nacionales, civiles o militares, en aspectos relacionados con navegación aérea.
+			- xiii. Propuesta del Plan Director de Navegación aérea y elaboración de informes sobre instrumentos de ordenación afectos.
+			- xiv. Cualquier otra función, en el ámbito de navegación aérea, para el ejercicio de competencias atribuidas al Ministerio TMA.
+	-	Servicios.
+		- a) Prestación ATS de control de área y de aproximación y servicios de información de vuelo, de alerta y asesoramiento en volúmenes de espacio aéreo correspondientes.
+		- b) Prestación AIS y AIP en nombre del Estado.
+		- c) Prestación CNS.
+		- d) Prestación ATS de aeródromo y SDP que le correspondan.
+		- e) Definición, desarrollo e implantación de sistemas ANS que le correspondan.
+		- f) Elaboración y tramitación de propuestas de modificación/creación de estructuras de espacio aéreo y su clasificación, asociados a FABs.
+		- g) Elaboración de propuestas de diseño/modificación de procedimientos de vuelo, asociados a FABs.
+
 - Real Decreto 645/2020 que desarrolla la estructura orgánica básica del Ministerio TMA.
 	- OBJETIVO.
 	- Instituir a la DGAC, que es el órgano mediante el que el Ministerio TMA diseña la estrategia, dirige la política aeronáutica y ejerce de regulador en el sector aéreo. Además, ubica a ENAIRE como entidad pública empresarial adscrita a la Secretaría de Estado TMA. AESA está adscrita al mismo Ministerio, a través de la Secretaría General de Transportes y Movilidad, dedicada a la supervisión del sector aéreo.
@@ -169,9 +204,15 @@ Dentro de cada grupo de normas, estas se clasifican atendiendo, en primer lugar,
 - Real Decreto 1238/2011 que regula el servicio SDP.
 	- OBJETIVO.
 		- Regular el servicio SDP y las condiciones para su implantación con el fin de garantizar la operación segura de las aeronaves en las plataformas del aeropuerto. Asimismo, completa el contenido del Manual del aeropuerto o del aeródromo de uso público en lo que atañe al SDP.
+- Real Decreto 1238/2011 que regula el servicio SDP.
+	- OBJETIVO.
+		- Regular el servicio SDP y las condiciones para su implantación con el fin de garantizar la operación segura de las aeronaves en las plataformas del aeropuerto. Asimismo, completa el contenido del Manual del aeropuerto o del aeródromo de uso público en lo que atañe al SDP.
 - Real Decreto 1180/2018 que desarrolla el Reglamento del aire y disposiciones operativas comunes para ANS.
 	- OBJETIVO.
 		- Establecer las normas de aplicación y desarrollo del Reglamento (UE) 923/2012 y el régimen de restricciones de espacio aéreo y exenciones a la asignación de franjas de salida ATFM, así como a las operaciones especiales, en el espacio aéreo español.
+- Real Decreto 426/2021, de 15 de junio, por el que se modifican el Reglamento de Circulación Aérea para actualizar la aproximación en pistas paralelas y las separaciones mínimas en las salidas y llegadas de los vuelos en los aeropuertos.
+	- OBJETIVO.
+		- Regula la utilización de pistas paralelas e introduce conceptos de la enmienda 9 del Doc 4444 de OACI.
 - Real Decreto 517/2024 que desarrolla el régimen jurídico para la utilización civil de UAS y se modifican diversas normas, entre ellas, el Reglamento del aire y disposiciones operativas comunes para servicios y procedimientos ANS y notificación de sucesos.
 	- OBJETIVO.
 		- Desarrollar y/o completar el régimen jurídico ya establecido en la normativa comunitaria; establecer el régimen jurídico aplicable a UAS cuando se lleven a cabo <> (Aduanas, policía, búsqueda y salvamento, lucha contra incendios, control fronterizo o vigilancia costera).

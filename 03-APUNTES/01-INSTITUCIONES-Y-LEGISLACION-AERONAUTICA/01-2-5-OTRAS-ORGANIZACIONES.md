@@ -3,13 +3,13 @@
 
 **EUROCAE**.
 - Siglas.
-	- Organización Europea para el Equipamiento en la Aviación Civil / European Organization for Civil Aviation Equipment
+	- Organización Europea para el Equipamiento en la Aviación Civil / European Organization for Civil Aviation Equipment.
 - Origen.
 	- Es una organización sin ánimo de lucro que se formó en Lucerna (Suiza).
 - Función.
 	- Intentaba proporcionar un foro europeo para la resolución de problemas y creación de estándares para la electrónica en la aviación.
 - Miembros.
-	- Más de 450 entre especialistas en aviación, universidades, laboratorios, fabricantes, reguladores, proveedores de servicios y/o usuarios.
+	- Más de 500 entre especialistas en aviación, universidades, laboratorios, fabricantes, reguladores, proveedores de servicios y/o usuarios.
 - Normas.
 	- Las normas recogidas en sus documentos es de carácter voluntario.
 
@@ -33,7 +33,7 @@
 - Función.
 	- Es el primer vehículo para la cooperación entre las aerolíneas en la promoción de servicios de transporte aéreo seguro, fiable y económico.
 - Miembros.
-	- Más de 330 aerolíneas que comprenden el 80% del tráfico aéreo total.
+	- Más de 350 aerolíneas que comprenden el 80% del tráfico aéreo total.
 
 **CANSO**.
 - Siglas.
@@ -51,10 +51,10 @@
 - Origen.
 	- Los operadores de aeropuertos en todo el mundo crearon la primera asociación mundial para representar sus intereses comunes y fomentar la cooperación con socios de toda la industria del transporte aéreo.
 - Función.
-	- Desarrollar a escala mundial una política aeroportuaria común para los aeropuertos miembros y presentarla ante los organismos mundiales más relevantes. 
+	- Desarrollar a escala mundial una política aeroportuaria común para los aeropuertos miembros y presentarla ante los organismos mundiales más relevantes.
 	- Promover el intercambio de información sobre asuntos técnicos, financieros, comerciales, de marketing o medio ambiente.
 - Miembros.
-	- 2110 aeropuertos principales del mundo pertenecientes a 814 operadores en 169 países.
+	- 2181 aeropuertos principales del mundo pertenecientes a 830 operadores en 170 países.
 
 **ESA**.
 - Siglas.
@@ -64,4 +64,4 @@
 - Función.
 	- Consiste en elaborar el programa espacial europeo y llevarlo a cabo. La ESA también trabaja en estrecha colaboración con organizaciones espaciales no europeas.
 - Miembros.
-	- 22 Estados Miembros.
+	- 23 Estados Miembros.
