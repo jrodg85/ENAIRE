@@ -7,11 +7,12 @@ Para que se produzca precipitación es necesario que las gotas de agua o cristal
 
 Según sea la altura a la que ha comenzado la caída y la distribución de temperaturas del aire por donde pasa en su descenso, la precipitación será de agua, nieve, aguanieve, lluvia helada (gotas que se congelan en el momento del contacto) o granizo.
 
-| TIPO NUBE                                                                                                                    | TIPO PRECIPITACIÓN                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| TIPO NUBE | TIPO PRECIPITACIÓN |
+| --------- | ------------------ |
 | De desarrollo vertical: Cumulonimbos (Cb) y ocasionalmente Cúmulos (Cu), cuando el desarrollo vertical es de gran extensión. | Precipitaciones, intensas y en forma de chubasco, frecuentemente en forma de tormenta. |
-| Nubes estratiformes, sobre todo Altoestratos (As) y Nimbostratos (Ns).                                                       | Precipitaciones de carácter continuado e intensidad moderada.                          |
-| Altoestratos.                                                                                                                | Precipitaciones débiles o moderadas y continuas                                        |
+| Nubes estratiformes, sobre todo Altoestratos (As) y Nimbostratos (Ns).  | Precipitaciones de carácter continuado e intensidad moderada.  |
+| Altoestratos.  | Precipitaciones débiles o moderadas y continuas |
+
 ## 8.3.1 Tipos de precipitación.
 
 - Chubascos:

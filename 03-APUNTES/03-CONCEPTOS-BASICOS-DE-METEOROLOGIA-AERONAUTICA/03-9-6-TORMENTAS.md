@@ -50,6 +50,7 @@ Un microrreventón genera vientos que pueden llegar a alcanzar valores de hasta 
 Por último, el microrreventón puede ir acompañado de precipitación, en cuyo caso se denominada microrreventón húmedo. En caso contrario, se denomina microrreventón seco.
 
 ![[172-MICRORREVENTON-APROXIMACION.jpg]]
+
 ## 9.6.3 Tornado/Tromba marina.
 
 Un tornado es una columna de aire que rota violentamente. Se origina en la base de un cumulonimbo, extendiéndose hasta el suelo. Su giro ciclónico produce una succión del aire que existe en su interior generando una caía de presión en el mismo.

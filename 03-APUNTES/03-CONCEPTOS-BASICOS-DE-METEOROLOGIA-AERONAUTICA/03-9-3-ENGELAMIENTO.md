@@ -33,15 +33,15 @@ El engelamiento en vuelo se puede presentar debido a cuatro procesos distintos q
 ![[166-HIELO-EN-EL-ALA.jpg]]
 
 Tipos de engelamiento:
-1. El hielo claro (clear icing) es un tipo de depósito de hielo homogéneo casi transparente, de aspecto vidrioso y con una superficie exterior lisa. Posee una gran adherencia a la superficie. La congelación de las gotas subfundidas, en este caso, es lenta. Es un tipo de engelamiento muy peligroso para la seguridad de las operaciones.
-   Las condiciones más favorables para que se deposite este tipo de hielo y, por tanto, las más peligrosas son:
-	1. Temperatura del aire entre 0ºC y -10ºC.
-	2. Temperatura del avión ligeramente por debajo de 0ºC.
-2. El hielo granulado (rime icing) es un tipo de depósito de hielo de color blanco y opaco, de aspecto áspero, rugoso y granular que posee una mala adherencia. La congelación de las gotas subfundidas en este caso es rápida. Este tipo de engelamiento no presenta grandes problemas para las operaciones.
-   Las condiciones más favorables para su formación y, por tanto, las más peligrosas son:
-	1. Temperatura del aire entre 0ºC y -40ºC (habitualmente entre -10ºC y-20ºC).
-	2. Temperatura del avión ligeramente por debajo de 0ºC.
-3. La lluvia engelante se forma cuando las gotas de precipitación líquida que procede de una capa con temperatura superior a 0ºC se sobreenfrían cuando atraviesan capas que se encuentran por debajo de 0ºC. Es el engelamiento más peligroso para las aeronaves, puesto que, además de ser un hielo transparente, se une el hecho de que cuando las gotas subfundidas impactan sobre el avión se congelan uniformemente por todas las partes del mismo.
-4. El engelamiento por escarcha o nieve húmeda se caracteriza porque este tipo de nieve está compuesta por cristales de hielo que coexisten con gotas de agua subfundidas. Este tipo de engelamiento puede generarse tanto en tierra como en vuelo.
-   En el caso de que este engelamiento se produzca sobre aviones aparcados a la intemperie, el depósito de hielo que se forma puede ser altamente peligroso si se inicia un vuelo sin haberlo retirado. El hecho de que el hielo esté muy adherido a la superficie metálica altera el perfil aerodinámico, disminuyendo la sustentación y aumentando la resistencia a la aeronave pudiendo obligar a cancelar el despegue.
+- 1. El hielo claro (clear icing) es un tipo de depósito de hielo homogéneo casi transparente, de aspecto vidrioso y con una superficie exterior lisa. Posee una gran adherencia a la superficie. La congelación de las gotas subfundidas, en este caso, es lenta. Es un tipo de engelamiento muy peligroso para la seguridad de las operaciones.
+  - Las condiciones más favorables para que se deposite este tipo de hielo y, por tanto, las más peligrosas son:
+		- 1. Temperatura del aire entre 0ºC y -10ºC.
+		- 2. Temperatura del avión ligeramente por debajo de 0ºC.
+- 2. El hielo granulado (rime icing) es un tipo de depósito de hielo de color blanco y opaco, de aspecto áspero, rugoso y granular que posee una mala adherencia. La congelación de las gotas subfundidas en este caso es rápida. Este tipo de engelamiento no presenta grandes problemas para las operaciones.
+  - Las condiciones más favorables para su formación y, por tanto, las más peligrosas son:
+		- 1. Temperatura del aire entre 0ºC y -40ºC (habitualmente entre -10ºC y-20ºC).
+		- 2. Temperatura del avión ligeramente por debajo de 0ºC.
+- 3. La lluvia engelante se forma cuando las gotas de precipitación líquida que procede de una capa con temperatura superior a 0ºC se sobreenfrían cuando atraviesan capas que se encuentran por debajo de 0ºC. Es el engelamiento más peligroso para las aeronaves, puesto que, además de ser un hielo transparente, se une el hecho de que cuando las gotas subfundidas impactan sobre el avión se congelan uniformemente por todas las partes del mismo.
+- 4. El engelamiento por escarcha o nieve húmeda se caracteriza porque este tipo de nieve está compuesta por cristales de hielo que coexisten con gotas de agua subfundidas. Este tipo de engelamiento puede generarse tanto en tierra como en vuelo.
+  - En el caso de que este engelamiento se produzca sobre aviones aparcados a la intemperie, el depósito de hielo que se forma puede ser altamente peligroso si se inicia un vuelo sin haberlo retirado. El hecho de que el hielo esté muy adherido a la superficie metálica altera el perfil aerodinámico, disminuyendo la sustentación y aumentando la resistencia a la aeronave pudiendo obligar a cancelar el despegue.
 
