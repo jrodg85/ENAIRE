@@ -8,6 +8,7 @@ Esta problemática se resuelve a través de la escala, que se define como la rel
 En otras palabras, la escala es un factor de reducción o ampliación que se aplica a la representación de un objeto, con el fin de ajustar su definición y obtener el formato de dibujo deseado.
 
 Existen diversas formas de expresar la escala, pero las dos más comunes son la gráfica y la numérica.
+
 ## 3.1.1 La escala numérica
 
 Se formula mediante una fracción cuyo numerador es la medida de la distancia lineal de un objeto en su representación sobre el plano, y cuyo denominador refleja la magnitud real de esa misma distancia.

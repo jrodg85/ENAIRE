@@ -100,6 +100,7 @@ Proporciona a las tripulaciones en vuelo información necesaria para pasar de la
 Esta carta se utilizará cuando se hayan establecido procedimientos de aproximación visual o sólo existan instalaciones limitadas para la navegación, o no se disponga de instalaciones de radiocomunicación, o no se disponga de cartas de aeródromo de escala 1:500.000 o superior o se hayan establecido procedimientos para la aproximación visual.
 
 ## 4.4.15 Carta Aeronáutica - OACI 1: 500.000.
+
 La función principal de esta carta es la de atender a las necesidades de la navegación aérea visual en vuelos a baja velocidad, a distancias cortas o medias y a altitudes bajas e intermedias. También tiene estas otras funciones:
 - Servir como carta aeronáutica básica.Proporcionar un medio adecuado para las instrucciones básicas de pilotaje y navegación.
 - Suplementar cartas especializadas que no proporcionan información visual esencial.

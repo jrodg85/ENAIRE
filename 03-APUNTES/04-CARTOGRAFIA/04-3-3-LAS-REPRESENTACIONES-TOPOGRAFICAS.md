@@ -16,8 +16,8 @@ No obstante, si sólo se realizara una representación puntual del terreno, se c
 ## 3.3.1 El sistema de curvas de nivel.
 
 El sistema de curvas de nivel es un procedimiento de representación del relieve basado en el sistema de planos acotados, que consiste en «cortar» el terreno por planos paralelos que contienen puntos que están a la misma altitud sobre el nivel del mar o sobre cualquier otro nivel de referencia.
-Dichos planos se encuentran separados por una misma distancia vertical denominada
-equidistancia.
+
+Dichos planos se encuentran separados por una misma distancia vertical denominada equidistancia.
 
 Cada sección produce un perímetro orográfico de igual cota que se proyecta en el plano del cuadro formando las denominadas **curvas de nivel o isohipsas**.
 

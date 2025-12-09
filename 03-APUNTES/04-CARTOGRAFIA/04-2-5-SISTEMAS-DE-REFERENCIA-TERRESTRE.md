@@ -40,7 +40,7 @@ Con este objetivo, el Departamento de Defensa estadounidense desarrolló el Worl
 2. Eje Z: dirección del polo medio convencional terrestre definido por el IERS (Servicio Internacional de Rotación de la Tierra), perpendicular al plano fundamental (Ecuador medio). Coincidente con el eje medio de rotación de la Tierra.
 3. Eje X: formado por la intersección determinada por el plano del Ecuador y el meridiano de Greenwich también definido por el IERS.
 4. Eje Y: situado sobre el plano del Ecuador medio y a 90° a la derecha del eje X formando junto con el eje Z un triedro a derechas siendo el origen del triedro el centro de masas de la Tierra.
-5. Elipsoide WGS84: elipsoide de revolución definido por los parámetros: 
+5. Elipsoide WGS84: elipsoide de revolución definido por los parámetros:
 	- Semieje mayor (a) = 6 378 137 m.
 	- Semieje menor (b) = 6 356 752 m.
 	- Constante de Gravitación Terrestre: GM = (3986004.418 ± 0.008) x 108 m3 / s2. Velocidad angular: W= 7292115 x 10-11 rad/s.

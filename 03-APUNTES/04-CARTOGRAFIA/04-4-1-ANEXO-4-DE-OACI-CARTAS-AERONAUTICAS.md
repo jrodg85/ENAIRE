@@ -8,6 +8,7 @@ Cada Estado es responsable de su propia producción cartográfica, atendiendo a 
 El Anexo 4 establece que las cartas deben ser de interpretación rápida y deben dejar abierto el camino para posibles mejoras de diseño, es preciso encontrar un equilibrio entre la uniformidad de presentación de las cartas, los requisitos operacionales y la aplicación de técnicas eficaces y económicas, para ello la cooperación entre estados es fundamental.
 
 Se hace necesaria una organización cartográfica adecuada en cada Estado. Todas las ramas de actividad implicadas en la realización y difusión de las cartas aeronáuticas deben estar al tanto de la relación funcional entre las cartas, así como de las especificaciones y necesidades correspondientes.
+
 ## 4.1.2 Aspectos recogidos en el Anexo 4.
 
 El Anexo 4 intenta dar una serie de normas y métodos recomendados que permitan la unificación del formato de las cartas para todos los países miembros, mediante el desarrollo de puntos como:

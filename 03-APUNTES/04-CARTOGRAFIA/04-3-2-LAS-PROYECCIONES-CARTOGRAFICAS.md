@@ -75,7 +75,7 @@ Está matemáticamente demostrado que no existe ningún sistema de proyección e
 			- Directa.
 				- El eje de la superficie de proyección es paralelo al eje de rotación terrestre.
 				- ![[207-PROYECCION-CILINDRICA-DIRECTA.jpg]]
-			- Transversal. 
+			- Transversal.
 				- El eje de la superficie de proyección es perpendicular al eje de rotación terrestre.
 				- ![[208-PROYECCION-CILINDRICA-TRANSVERSAL.jpg]]
 			- Oblicua.
