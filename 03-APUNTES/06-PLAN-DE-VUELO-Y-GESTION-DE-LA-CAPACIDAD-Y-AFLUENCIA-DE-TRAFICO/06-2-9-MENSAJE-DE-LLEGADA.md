@@ -28,23 +28,3 @@ Cuando haya aterrizado una aeronave que ha sufrido fallo de comunicaciones en am
 (aterrizaje en el aeródromo de destino)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -32,12 +32,3 @@ Los PLN rechazados no llegan a ATC y es tarea del operador o el originador del m
 En ocasiones ocurre que un plan de vuelo, pese a haber sido aceptado con anterioridad, se suspende por alguna causa mediante el envío de un mensaje de suspensión del vuelo (FLS Flight suspension message). Este mensaje será recibido en la dependencia ATS e inicialmente implica la no autorización de salida del vuelo.
 
 
-
-
-
-
-
-
-
-
-

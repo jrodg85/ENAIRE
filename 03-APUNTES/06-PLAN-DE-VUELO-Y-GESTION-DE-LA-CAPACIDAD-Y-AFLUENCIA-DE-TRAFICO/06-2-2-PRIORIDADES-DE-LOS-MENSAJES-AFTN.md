@@ -7,13 +7,13 @@ Es un sistema completo y mundial de circuitos fijos aeronáuticos dispuestos com
 
 Para poder organizar esa mensajería, se establecen unas letras al inicio de los mensajes que se llaman prioridad y que determinan el orden de la transmisión:
 
-| PRIORIDAD | TIPO DE MENSAJE                                                                                                                                                                                                                                                                                                                                           |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SS        | Mensajes de socorro.                                                                                                                                                                                                                                                                                                                                      |
-| DD        | Mensajes de urgencia.                                                                                                                                                                                                                                                                                                                                     |
+| PRIORIDAD | TIPO DE MENSAJE |
+| --------- | --------------- |
+| SS        | Mensajes de socorro. |
+| DD        | Mensajes de urgencia. |
 | FF        | Mensaje de plan de vuelo; Mensajes de movimiento y control; Los mensajes originados por una empresa explotadora de aeronaves, de interés inmediato para las aeronaves en vuelo o aquellas que se preparan para la salida; Los mensajes meteorológicos que se limiten a la información SIGMET, a aeronotificaciones especiales y a pronósticos enmendados. |
 | GG        | Los mensajes meteorológicos relativos a pronósticos, los pronósticos de área y los pronósticos de ruta; Los mensajes relativos a observaciones e informes; Los mensajes relativos a la regularidad de vuelo;<br>Los mensajes de los servicios de información aeronáutica (AIS).                                                                           |
-| KK        | Los mensajes aeronáuticos administrativos.                                                                                                                                                                                                                                                                                                                |
+| KK        | Los mensajes aeronáuticos administrativos. |
 
 Los mensajes que tengan el mismo indicador de prioridad se transmitirán según el orden en que se reciban para su transmisión.
 El orden de prioridad será el siguiente:
