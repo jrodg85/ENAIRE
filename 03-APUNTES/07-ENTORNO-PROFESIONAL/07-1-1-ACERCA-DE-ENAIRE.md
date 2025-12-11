@@ -4,8 +4,8 @@ La entidad pública empresarial ENAIRE, adscrita al Ministerio de Transportes y 
 
 ![[290-ORGANIGRAMA-ENAIRE.jpg]]
 
-ENAIRE es el principal proveedor de servicios de navegación aérea y de información aeronáutica en España, el cuarto en Europa por volumen de tráfico y uno de los más importantes a nivel mundial. Como entidad pública empresarial dependiente del Ministerio de Transportes y Movilidad Sostenible, gestiona el espacio aéreo español: 2.190.000 kilómetros cuadrados. El tráfico aéreo atendido por ENAIRE, más de 2 millones de vuelos, transportó a más de 328 millones de personas en el año 2023. A través de sus cinco centros de control, 21 torres y una completa red de infraestructuras y equipamientos aeronáuticos, ENAIRE presta los servicios de tránsito aéreo de control de área, aproximación y aeródromo, así como los de información de vuelo, alerta y 
-asesoramiento. Es el proveedor de servicios de comunicaciones, navegación y vigilancia en todo el espacio aéreo español y en los aeropuertos de la red Aena.
+ENAIRE es el principal proveedor de servicios de navegación aérea y de información aeronáutica en España, el cuarto en Europa por volumen de tráfico y uno de los más importantes a nivel mundial. Como entidad pública empresarial dependiente del Ministerio de Transportes y Movilidad Sostenible, gestiona el espacio aéreo español: 2.190.000 kilómetros cuadrados. El tráfico aéreo atendido por ENAIRE, más de 2 millones de vuelos, transportó a más de 328 millones de personas en el año 2023. A través de sus cinco centros de control, 21 torres y una completa red de infraestructuras y equipamientos aeronáuticos, ENAIRE presta los servicios de tránsito aéreo de control de área, aproximación y aeródromo, así como los de información de vuelo, alerta y asesoramiento. Es el proveedor de servicios de comunicaciones, navegación y vigilancia en todo el espacio aéreo español y en los aeropuertos de la red Aena.
+
 ENAIRE fue designada por el Estado como Operador de Infraestructuras Críticas en 2015 y como Operador de Servicios Esenciales en 2019.
 
 ENAIRE tiene encomendada la planificación, dirección, coordinación, explotación, conservación y administración del tráfico aéreo, de los servicios de telecomunicaciones e información aeronáutica, así como de las infraestructuras, instalaciones y redes de comunicaciones del sistema de navegación aérea, con el objetivo de que la prestación del servicio sea segura, eficaz, continuada y sostenible.
@@ -20,7 +20,7 @@ ENAIRE tiene encomendada la planificación, dirección, coordinación, explotaci
 **Nivel 2: Dirección General**.
 
 - **Enrique Maurer Somolinos** – DIRECTOR GENERAL.
-  
+
  **Nivel 3: Áreas de Dirección y Secretaría General**.
 
 - **Elena Sáenz Guillén** – SECRETARIA GENERAL.
@@ -81,17 +81,17 @@ Personal por ocupaciones:
 
 **Ámbito CLIENTES**.
 - Asociaciones de compañías de aviación comercial
-- Compañías aéreas y sus pilotos    
+- Compañías aéreas y sus pilotos
 - Gestores aeroportuarios
-- Asociaciones de Aviación no comercial 
-- Operadores de drones    
+- Asociaciones de Aviación no comercial
+- Operadores de drones
 
 **Ámbito PERSONAS**.
 - Personas empleadas.
-- Organizaciones sindicales.    
-- Asociaciones profesionales.    
+- Organizaciones sindicales.
+- Asociaciones profesionales.
 - Antiguo personal.
-- Solicitantes de empleo 
+- Solicitantes de empleo
 
 **Ámbito SOCIEDAD**.
 - Pasaje.
@@ -111,7 +111,7 @@ Personal por ocupaciones:
 - Comisión Europea.
 - Agencia Europea de Seguridad Aérea (**EASA**).
 - Agencia Española de Seguridad Aérea (**AESA**).
-- Ejército del Aire y del Espacio. 
+- Ejército del Aire y del Espacio.
 
 **Ámbito PARTNERS / PROVEEDORES**.
 - **Network Manager** – Gestor de Red europeo.
