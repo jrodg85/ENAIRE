@@ -30,7 +30,7 @@ Con ella se han desarrollado varios conceptos:
 - Definición.
 	- Es para la navegación basada en la navegación de área que incluye el requisito de vigilancia y alerta de la performance a bordo.
 
-**Concepto PBN**. 
+**Concepto PBN**.
 - Definición.
 	- Es un concepto definido por OACI que engloba tanto a las especificaciones RNAV como a las RNP:
 		- Por el que se pretende alcanzar un nivel óptimo de seguridad y eficiencia.

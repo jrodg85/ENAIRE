@@ -47,7 +47,7 @@ En función de los requisitos exigidos para una operación o fase de vuelo, un s
 				- Galileo (Unión Europea).
 				- BeiDou / BDS (China).
 	- B.ESPACIALES.
-		- Tipos 
+		- Tipos.
 			- Sistemas de aumentación SBAS.
 				- Sistemas de cobertura regional/continental, que utilizan una red de estaciones de referencia terrestres para calcular correcciones e información de integridad, partiendo de los datos recibidos de las constelaciones GNSS. Las correcciones y la información de integridad se envían a las aeronaves mediante satélites en órbita geoestacionaria (GEO).
 				- Los receptores SBAS embarcados calculan posición y guiado combinando a bordo la posición obtenida directamente de las constelaciones con los datos emitidos por el sistema SBAS.

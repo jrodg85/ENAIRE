@@ -81,6 +81,7 @@ El instrumento indicador de a bordo se compone de los siguientes elementos:
 - b. Indicador TO/FROM: Dispositivo que muestra si la aeronave está volando hacia (TO) o desde (FROM) la estación terrestre.
 
 ![[243-REPRESENTACION-VOR.jpg]]
+
 ### 3.3.2.4 Navegación VOR.
 El VOR se usa para volar en acercamiento/alejamiento a/desde la estación terrestre. El proceso es el siguiente:
 El piloto selecciona, mediante el OBS (selector de radiales), el radial de vuelo deseado. Cuando se realiza esta operación, el plano de situación horizontal se divide en cuatro cuadrantes.
@@ -120,7 +121,7 @@ Con respecto al VOR convencional (CVOR), las frecuencias de transmisión son las
 ## 3.3.3 Sistema DME.
 
 El DME (Distance Measuring Equipment / Equipo Medidor de Distancia) es un sistema de ayuda a la navegación que proporciona información de la distancia oblicua entre una aeronave y una estación en tierra.
-  
+
 ![[249-MEDIDA-DISTANCIA-DME.jpg]]
 
 ### 3.3.3.1 Principio de funcionamiento.
@@ -242,7 +243,7 @@ La banda de frecuencias en la que trabaja el Localizador y las radiobalizas del 
 Se han definido tres categorías de actuación de las instalaciones en función de las diferentes necesidades operacionales:
 - **RVR (Runway Visual Range)**: Distancia hasta la cual el piloto de una aeronave que se encuentra sobre el eje de una pista puede ver las señales de superficie de la pista o las luces que la delimitan o que señalan su eje.
 - **DH (Decision Height)**: Altura de la base del techo de nubes. La referencia visual requerida se obtendrá cuando el avión vuele por debajo de la base de nubes.
-  
+
   | CATEGORIA DE OPERACION | ALCANCE VISUAL EN PISTA (RVR) (metros) | ALTURA DE DECISIÓN (DH) (metros) |
   | ---- | --- | --- |
   | I | x > 550 | y > 60/200 |

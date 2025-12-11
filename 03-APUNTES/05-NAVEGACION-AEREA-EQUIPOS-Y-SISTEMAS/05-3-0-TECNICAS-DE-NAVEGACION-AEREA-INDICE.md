@@ -28,13 +28,13 @@ Los diferentes modos existentes han surgido en función de la necesidad de volar
 
 **NAVEGACIÓN RADIO-ELÉCTRICA CONVENCIONAL**.
 - Definición.
-	- Es una técnica de navegación instrumental basada en el vuelo hacia o desde radioayudas. 
+	- Es una técnica de navegación instrumental basada en el vuelo hacia o desde radioayudas.
 - Procedimientos.
 	- a) Se establece la ruta de vuelo de forma que los puntos de recorrido coincidan con estaciones terrestres de radioayudas.
 	- b) Durante el vuelo, el piloto dirige la aeronave de estación en estación, utilizando la información de navegación (posición y guiado) proporcionada por las propias radioayudas.
 	- c) Dentro de un determinado espacio aéreo, esta técnica determina una red de rutas fija supeditada a la configuración existente de radioayudas, lo que limita la utilización de la capacidad disponible.
 - Observaciones.
-- La imposibilidad de determinar trayectorias de vuelo flexibles no solo impide una utilización óptima del espacio aéreo, sino que aumenta la complejidad de las operaciones y tiene importantes repercusiones en los costes operativos y medioambientales.
+	- La imposibilidad de determinar trayectorias de vuelo flexibles no solo impide una utilización óptima del espacio aéreo, sino que aumenta la complejidad de las operaciones y tiene importantes repercusiones en los costes operativos y medioambientales.
 
 **NAVEGACIÓN DE ÁREA**.
 - Definición.

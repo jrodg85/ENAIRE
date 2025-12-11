@@ -6,6 +6,7 @@ Desde un punto de vista operativo, la navegación aérea tiene como principal ob
 La ruta a seguir por una aeronave debe ser planificada antes de la realización del vuelo y se determina mediante una serie de puntos de recorrido, delimitados entre el origen y el destino.
 
 ![[232-ESQUEMA-DE-LA-RUTA-SEGUIDA-DE-UNA-AERONAVE.jpg]]
+
 De esta forma, el vuelo de una aeronave se puede dividir en seis fases:
 - Despegue: Es la fase en que la aeronave comienza el ascenso, abandonando el aeropuerto de origen.
 - Ascenso (salida): La aeronave continúa el ascenso, siguiendo las rutas de salida establecidas, hasta alcanzar el punto donde se inicia la fase de ruta.

@@ -1,4 +1,4 @@
-	- 
+
 # 4. Funciones y sistemas de vigilancia.
 
 El objetivo de la función de vigilancia es obtener un conocimiento exacto y en tiempo real de la ubicación de las aeronaves en un determinado entorno operativo.
