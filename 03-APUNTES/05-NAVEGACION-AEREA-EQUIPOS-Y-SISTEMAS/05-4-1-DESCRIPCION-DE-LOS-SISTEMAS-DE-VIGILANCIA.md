@@ -63,6 +63,7 @@ La resolución de acimut también se mejora (precisión de 0,25 grados) en compa
 El alcance operativo es considerablemente más pequeño si se compara con otros radares (lo que no debe considerarse un inconveniente, ya que el propósito del SMR es cubrir solo el área de maniobras), lo que permite usar pulsos más cortos, lo que resulta en una resolución en distancia mucho mejor (unos 20 m).
 
 ## 4.1.2 Sistemas de vigilancia cooperativa.
+
 ### 4.1.2.1 Radar secundario (SSR).
 
 El SSR (Secondary Surveillance Radar / Radar Secundario de Vigilancia) es un sistema de vigilancia independiente cooperativo, capaz de proporcionar información de posición de una aeronave.
@@ -96,10 +97,10 @@ La generación de una respuesta a bordo de la aeronave implica la necesidad de q
 
 En la siguiente tabla se especifican los diferentes modos de trabajo del transpondedor siendo el modo S el de mayor uso:
 
-| MODO         | APLICACIÓN                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MODO 3/A<br> | El equipo de a bordo transmite una señal de identificación, que cuando es requerida por el control de tierra, hace que se ilumine en la pantalla radar con mayor intensidad el «blanco» que representa el avión.                                                                                                                                                                                                                               |
-| MODO C       | Con este modo conectado, además de estar seleccionado el Modo 3/A, el equipo transmite una señal de altitud (lo que equivale al nivel de vuelo), que aparecerá en la pantalla radar.                                                                                                                                                                                                                                                           |
+| MODO         | APLICACIÓN  |
+| ------------ | ----------- |
+| MODO 3/A<br> | El equipo de a bordo transmite una señal de identificación, que cuando es requerida por el control de tierra, hace que se ilumine en la pantalla radar con mayor intensidad el «blanco» que representa el avión. |
+| MODO C       | Con este modo conectado, además de estar seleccionado el Modo 3/A, el equipo transmite una señal de altitud (lo que equivale al nivel de vuelo), que aparecerá en la pantalla radar. |
 | INTERMODO    | 1. Interrogación en Modos A, C y S. De esta forma se obtendrán respuestas para vigilancia de respondedores en los Modos A/C y S.<br>2. Interrogación en Modo A y C solamente. De esta forma se obtienen respuestas para vigilancia de respondedores en Modos A/C.                                                                                                                                                                              |
 | MODO S       | 1. Interrogación en Modo S General: para obtener respuestas sólo en Modo S.<br>2. Radiodifusión: para transmitir información a todos los respondedores en Modo S. No se obtienen respuestas.<br>3. Llamada Selectiva: para vigilancia de determinados respondedores en Modo S y para la comunicación con ellos. Para cada interrogación, se obtiene una respuesta solamente del respondedor al que se ha dirigido una interrogación exclusiva. |
 
