@@ -17,7 +17,7 @@
 
 - Afectivos/emocionales.
 	- alteración de estados de ánimo, irritabilidad, impaciencia, frustración, pesimismo, sensación de pánico o miedo, ansiedad, depresión (causada por el estrés).
-- Cognitivos: afectación a la atención, vigilancia, nivel de alerta; 
+- Cognitivos: afectación a la atención, vigilancia, nivel de alerta;
 	- afectación a la capacidad para hacer planes y/o ejecutarlos; realizar acciones no deliberadas (activación de funciones de forma no intencionada).
 
 ## 6.2.3 Conductuales.

@@ -7,7 +7,7 @@
 	- La fatiga es algo objetivo, un estado fisiológico que se manifiesta en disminución de la capacidad de la persona para realizar su trabajo.
 	- Por tanto, la fatiga se produce a consecuencia de un periodo de vigilia prolongada y una acumulación de falta de sueño, y la sensación de cansancio aparece tras la realización de un trabajo intenso, o dicho de otra manera, la fatiga es el agotamiento de la mente o del cuerpo como resultado del trabajo o de la falta de descanso y el cansancio es la sensación del individuo en relación con su nivel de fatiga.
 	- De forma general, podemos hablar de fatiga mental, visual y física, y para facilitar su comprensión, se han incluido algunos de estos síntomas de forma visual:
-	
+
 	| SÍNTOMAS PSICOLÓGICOS DE LA FATIGA | SÍNTOMAS FISIOLÓGICOS DE LA FATIGA |
 	| --------------------------------------------- |  -------------------------------------------- |
 	|  Alteración de la capacidad cognitiva (atención, vigilancia, nivel de alerta) | Dificultad para enfocar/ visión borrosa |
@@ -18,7 +18,7 @@
 	| Alteración de la percepción del riesgo | Trastornos asociados al sueño |
 
 - Salud y bienestar en relación con el trabajo a turnos.
-- Desde el punto de vista de la seguridad operacional, no es sencillo establecer claramente el impacto causado por la fatiga, ya que depende de la propia conciencia del individuo respecto de su estado y de su habilidad para desarrollar estrategias que mitiguen los efectos perjudiciales de ésta, aunque la consecuencia de la fatiga puede traducirse en un aumento de los errores y, por tanto, de los incidentes de seguridad. 
+- Desde el punto de vista de la seguridad operacional, no es sencillo establecer claramente el impacto causado por la fatiga, ya que depende de la propia conciencia del individuo respecto de su estado y de su habilidad para desarrollar estrategias que mitiguen los efectos perjudiciales de ésta, aunque la consecuencia de la fatiga puede traducirse en un aumento de los errores y, por tanto, de los incidentes de seguridad.
 
 ![[310-FATIGA-Y-SEGURIDAD-OPERACIONAL.jpg]]
 

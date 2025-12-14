@@ -28,7 +28,7 @@ Está demostrado que aproximadamente el 70% del coste final del proyecto, viene 
 **Curvas representadas**.
 1. **a) No human factors integration (Sin integración de factores humanos)**
 	- Línea azul punteada larga.
-	- El coste empieza bajo en la fase de diseño pero crece rápidamente y se mantiene muy alto durante la operación.        
+	- El coste empieza bajo en la fase de diseño pero crece rápidamente y se mantiene muy alto durante la operación.
     - Implica que los problemas humanos no se consideran desde el principio, por lo que se detectan tarde y corregirlos es mucho más caro.
 2. **b) Reactive human factors integration (Integración reactiva de factores humanos)**
     - Línea azul punteada corta.

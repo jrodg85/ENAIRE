@@ -31,7 +31,6 @@ Endsley define el concepto de conciencia situacional como "la percepción de los
 		- **Estrés** (stressors).
 		- **Diseño del sistema** (system design).
 		- **Complejidad** (complexity).
-    
 
 Estos influyen directamente en la capacidad de percibir, comprender y proyectar.
 
@@ -49,7 +48,7 @@ Estos determinan qué información se prioriza, cómo se interpreta y qué tan p
 El flujo es:
 1. **Consciencia situacional** (niveles 1-2-3).
 2. **Decisión**: Seleccionar el curso de acción más adecuado.
-3. **Ejecución de la acción** (Performance of action).  
+3. **Ejecución de la acción** (Performance of action).
 4. Esta acción cambia el **estado del entorno o sistema**, y el ciclo comienza otra vez.
 
 **4. Ciclo dinámico**

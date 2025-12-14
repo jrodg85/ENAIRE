@@ -23,20 +23,20 @@ Un modelo ampliamente empleado es el modelo transaccional de Cox-Mackay, que tie
 
 ![[311-ESTRES-COX-MACKAY.jpg]]
 
-**Capacidad real**  
-↓  
-**Capacidad percibida**  
-→ **Evaluación cognitiva** ←  
-**Demanda percibida**  
-↑  
+**Capacidad real**
+↓
+**Capacidad percibida**
+→ **Evaluación cognitiva** ←
+**Demanda percibida**
+↑
 **Demanda real**
 
-**Evaluación cognitiva**  
-↓  
-**Desequilibrio = estrés**  
-↓  
-**Experiencia emocional** → **Respuesta psicológica** ← **Respuesta al estrés**  
-↓ ↓  
+**Evaluación cognitiva**
+↓
+**Desequilibrio = estrés**
+↓
+**Experiencia emocional** → **Respuesta psicológica** ← **Respuesta al estrés**
+↓ ↓
 **Defensa cognitiva** **Respuesta conductual**
 
 **Retroalimentación** (Feedback) está indicada en varias flechas que conectan:

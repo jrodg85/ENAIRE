@@ -19,3 +19,4 @@ La gestión de riesgos relativos al estrés debe ser considerada un componente v
 - Mitigar el impacto operacional del estrés en los Controladores de Tránsito Aéreo.
 - Proveer de la formación/información y educación pertinente a los empleados en materia de estrés.
 - Establecer mecanismos de actuación en el caso de que se manifieste un nivel de estrés tal que impida llevar a cabo tareas críticas de segUridad.
+- Promover actividades que ayuden a mitigar el estrés.

@@ -16,3 +16,4 @@ También se establecen requisitos normativos para el contenido de los cursos de 
 - Estrés.
 - Error humano: errores humanos y transgresiones.
 - Trabajo colaborativo: comunicación, trabajo colaborativo dentro de la misma área de responsabilidad y con otras áreas de responsabilidad, cooperación controlador/piloto.
+
