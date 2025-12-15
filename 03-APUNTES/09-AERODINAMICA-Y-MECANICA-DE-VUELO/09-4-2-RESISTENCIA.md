@@ -11,7 +11,7 @@ Donde:
 - D es la resistencia.
 - C<sub>D</sub> es el coeficiente de resistencia.
 • S es la superficie de las alas
-• q es la presión dinámica 1
-⁄2 𝜌𝑉2
+• q es la presión dinámica 1⁄2 𝜌𝑉<sup>2</sup>
+
 El coeficiente de resistencia es la suma del coeficiente de resistencia parasita y el
 coeficiente de resistencia inducida.

@@ -10,7 +10,7 @@ La temperatura disminuye 2º cada 1000 pies de altitud (6,5ºC por km), lo que d
 ![[314-TABLA-PROPIEDADES-AIRE.jpg]]
 
 Las columnas 4, 6 y 7 muestran los datos de la densidad, presión y temperatura relativa.
-Debido a que las performances de las aeronaves se comparan y evalúan con respecto a la
-atmósfera estándar, todos los instrumentos están calibrados para la atmósfera estándar.
+
+Debido a que las performances de las aeronaves se comparan y evalúan con respecto a la atmósfera estándar, todos los instrumentos están calibrados para la atmósfera estándar.
 
 

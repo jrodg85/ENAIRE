@@ -22,19 +22,19 @@ El perfil alar es el corte del ala por un plano vertical paralelo al eje longitu
 - El alargamiento es el cociente entre la envergadura y la cuerda media. Este dato nos dice la relación existente entre la longitud y la anchura del ala (Envergadura/Cuerda media). A medida que este valor se hace más elevado el ala es más larga y estrecha. Del orden de 3-4 en aviones muy rápidos a 25-30 en los planeadores.
 - Flecha. La flecha del ala es el ángulo que forman las alas respecto del eje transversal del avión. La flecha puede ser positiva/progresiva (extremos de las alas orientados hacia atrás), neutra, o negativa/regresiva (extremos adelantados), en función de que la punta del ala este por delante o por detrás del ala en el encastre.
 
-![[324-TIPOS-DE-FLECHA.jpg]]  
+![[324-TIPOS-DE-FLECHA.jpg]]
 
 - El diedro, visto el avión de frente, es el ángulo en forma de “V” que forman las alas con el eje lateral. El ángulo diedro puede ser positivo, neutro, o negativo.
-  
+
   ![[325-TIPOS-DE-DIEDRO.jpg]]
-  
+
 - El ángulo de ataque es el que forman la cuerda y la corriente libre de aire. El ángulo de ataque es el ángulo agudo formado por la cuerda del ala y la dirección del viento relativo. Este ángulo es variable, pues depende de la dirección del viento relativo y de la posición de las alas con respecto a este.
-  
+
   ![[326-ANGULO-DE-ATAQUE.jpg]]
-  
-- 
-  
-  
+
+
+
+
 
 
 

@@ -1,8 +1,6 @@
 
 # 7.1 Coffin corner.
 
-# 7.1 Coffin corner.
-
 Sabemos que la corriente de aire que circula por el extradós aumenta en velocidad y disminuye en presión generando sustentación.
 
 A altas velocidades, Mach 0.82 y superiores que se dan, en algunos casos, en reactores comerciales, podría suceder que en algún punto del extradós se alcanzara la velocidad del sonido.

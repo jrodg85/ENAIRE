@@ -10,19 +10,19 @@ En el despegue la velocidad varía continuamente y esto hace que haya un gran n�
 - V<sub>MCA</sub>.
 	- Velocidad mínima de control en el aire, con un motor inoperativo (motor crítico en aviones bimotor). Del mismo modo un fallo de motor en el aire provocará una guiñada.
 	  A mayor velocidad más efectivos será los controles aerodinámicos existiendo una velocidad por debajo de la cual el avión no será controlable.
-	  
+
 	  𝑉<sub>𝑀𝐶𝐴</sub> ≥ 1.2 𝑉<sub>𝑆</sub>
-	  
+
 -  V<sub>1</sub>.
 	- Velocidad de decisión, es aquella en la que el piloto tiene que continuar el despegue o abortarlo. Antes abortará y después de esa velocidad continuará el despegue, a esa velocidad decidirá si hace una cosa o la otra.
-	  
+
 	  𝑉<sub>1</sub> ≥ 𝑉<sub>𝑀𝐶𝐺</sub>
-	  
+
 - V<sub>R</sub>.
 	- Velocidad de rotación, es la velocidad a la que se inicia la rotación de la aeronave a la actitud del despegue. La velocidad no puede ser inferior a V1 o inferior a 1,05 veces VMC. Con un fallo de motor, también debe permitir la aceleración hasta V2 a una altura de35 pies al final de la pista.
-	  
-	 𝑉<sub>𝑅</sub> ≥ 𝑉<sub>1</sub> ; 𝑉<sub>𝑅</sub> ≥ 1.05 𝑉<sub>𝑀𝐶</sub> 
-	 
+
+	 𝑉<sub>𝑅</sub> ≥ 𝑉<sub>1</sub> ; 𝑉<sub>𝑅</sub> ≥ 1.05 𝑉<sub>𝑀𝐶</sub>
+
 - V<sub>LOF</sub>.
 	- Velocidad de despegue. La velocidad a la que, inicialmente, el avión se va al aire.
 - V<sub>2</sub>.

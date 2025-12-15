@@ -13,3 +13,4 @@ La altitud densidad es el factor más importante que afecta a las actuaciones de
 - La capacidad de sustentación, debido a que el aire menos denso ejerce menos fuerza en las alas.
 
 Una combinación de alta temperatura, alta altitud y alta humedad hacen crítica la maniobra de despegue.
+

@@ -16,6 +16,7 @@
 		- 𝑀𝑁 = 𝑇𝐴𝑆 ⁄𝑐
 
 ## 3.5.1 Errores de anemómetro.
+
 - Errores de instrumento y de posición debidos a la falta de precisión en su fabricación y a la dificultad de ubicación en un lugar donde la afectación de la presión estática sea mínima.
 - Error de compresibilidad. Por encima de 250 Kts la variación de la densidad es apreciable.
 
